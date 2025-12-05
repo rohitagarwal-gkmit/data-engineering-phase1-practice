@@ -64,6 +64,8 @@ The merge operation was performed on `branch-1` to pull `main`'s changes.
     git push origin branch-1
     ```
 
+![](./screenshots/Screenshot%202025-12-05%20at%204.12.09 PM.png)
+
 The merge created a **Merge Commit (M)** on `branch-1`. This new commit incorporates `main`'s history (**B**) while preserving the original timeline of `branch-1` (**C**).
 
 ### Rebase Operation (`branch-2` onto `main`)
@@ -82,12 +84,12 @@ The rebase operation was performed on `branch-2` to clean up its history by plac
     git push origin branch-2 --force
     ```
 
+![](./screenshots/Screenshot%202025-12-05%20at%204.14.44 PM.png)
+
 The rebase **rewrote Commit D** as **D'** and moved it to appear immediately after `main`'s commit (**B**). Because the local history was altered, a **forced push (`--force`)** was required to update the remote branch.
 
-## 📸 Screenshots
+# graph
 
-![](./screenshots/Screenshot%202025-12-05%20at%204.12.09 PM.png)
-
-![](./screenshots/Screenshot%202025-12-05%20at%204.14.44 PM.png)
+![](./screenshots/Screenshot%202025-12-05%20at%204.33.44 PM.png)
 
 ![](./screenshots/20251205_162850.jpg)
