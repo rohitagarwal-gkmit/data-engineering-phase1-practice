@@ -85,15 +85,9 @@ created the 60-record CSV file and set up the target table in the database.
 
     ![Data Generation Script Executed](screenshorts/Screenshot%202025-12-05%20at%2011.19.39 AM.png)
 
-2.  **Verify CSV Content:**
-
-    ```bash
-    cat user_data.csv | head -n 5
-    ```
-
     ![CSV Content Verification](screenshorts/Screenshot%202025-12-05%20at%2011.20.15 AM.png)
 
-3.  **Connect to `psql` and Create Database/Table:**
+2.  **Connect to `psql` and Create Database/Table:**
 
     ```bash
     psql -U postgres -d postgres
@@ -112,6 +106,8 @@ created the 60-record CSV file and set up the target table in the database.
     ```
 
     ![Database and Table Created](screenshorts/Screenshot%202025-12-05%20at%2011.25.24 AM.png)
+
+    ![SQLAlchemy Bulk Data Loading](screenshorts/Screenshot%202025-12-05%20at%2011.31.02 AM.png)
 
 ## Data Loading Methods Executed
 
@@ -146,7 +142,7 @@ ran command -
 python load_pandas.py
 ```
 
-![Pandas Data Loading](screenshorts/Screenshot%202025-12-05%20at%2011.29.46 AM.png)
+![Pandas Data Loading](screenshorts/Screenshot%202025-12-05%20at%2011.30.00 AM.png)
 
 ### Method 2: Standard SQL `INSERT` Statements (`psycopg2`)
 
@@ -190,7 +186,7 @@ ran command -
 python load_insert.py
 ```
 
-![SQL INSERT Data Loading](screenshorts/Screenshot%202025-12-05%20at%2011.30.00 AM.png)
+![Insert Load Successfull](screenshorts/Screenshot%202025-12-05%20at%2011.39.50 AM.png)
 
 ### Method 3: SQLAlchemy ORM Bulk Insertion (`bulk_insert_mappings`)
 
@@ -243,12 +239,4 @@ ran commands -
 python load_bulk.py
 ```
 
-![SQLAlchemy Bulk Data Loading](screenshorts/Screenshot%202025-12-05%20at%2011.31.02 AM.png)
-
-![Data Loading Verification](screenshorts/Screenshot%202025-12-05%20at%2011.34.24 AM.png)
-
-![Final Database Check](screenshorts/Screenshot%202025-12-05%20at%2011.39.50 AM.png)
-
-![Container Status Check](screenshorts/Screenshot%202025-12-05%20at%2011.49.37 AM.png)
-
-![Final Results Summary](screenshorts/Screenshot%202025-12-05%20at%2011.53.36 AM.png)
+![SQLAlchemy Load Successfull](screenshorts/Screenshot%202025-12-05%20at%2011.53.36 AM.png)
