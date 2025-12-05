@@ -119,7 +119,7 @@ The `user_data.csv` file was loaded into the `users` table using three different
 
 ### Method 1: Pandas (`df.to_sql()`)
 
-This method uses the Pandas library to treat the CSV as a DataFrame, which is then mapped and inserted into the database via SQLAlchemy.
+This method uses the Pandas library to treat the CSV as a DataFrame, which is then mapped and inserted into the database.
 
 ```python
 import pandas as pd
@@ -194,7 +194,7 @@ python load_insert.py
 
 ### Method 3: SQLAlchemy ORM Bulk Insertion (`bulk_insert_mappings`)
 
-This method is an optimized intermediate approach. It uses the SQLAlchemy Object-Relational Mapper (ORM) to map CSV records to Python objects and then executes a single, highly efficient multi-row `INSERT` statement.
+This method is an optimized intermediate approach. It uses the SQLAlchemy Object-Relational Mapper (ORM) to map CSV records to Python objects and then Inserts it.
 
 ```python
 from sqlalchemy import create_engine, Column, Integer, String, Date, Boolean
