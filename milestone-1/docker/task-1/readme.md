@@ -14,7 +14,7 @@ established the environment by running the PostgreSQL container and installing t
     docker run --name pg_db -e POSTGRES_PASSWORD=qwerty -p 5432:5432 -d postgres
     ```
 
-    ![PostgreSQL Container Started](./screenshorts/container_started.png)
+    ![PostgreSQL Container Started](./screenshots/container_started.png)
 
 2.  **Access the Container Shell and Install Dependencies:**
 
@@ -26,7 +26,7 @@ established the environment by running the PostgreSQL container and installing t
     pip3 install psycopg2-binary pandas sqlalchemy
     ```
 
-    ![Dependencies Installed](screenshorts/Screenshot%202025-12-05%20at%2011.18.17 AM.png)
+    ![Dependencies Installed](screenshots/Screenshot%202025-12-05%20at%2011.18.17 AM.png)
 
 3.  **the Python Data Generation Script:**
 
@@ -83,9 +83,9 @@ created the 60-record CSV file and set up the target table in the database.
     python3 generate_data.py
     ```
 
-    ![Data Generation Script Executed](screenshorts/Screenshot%202025-12-05%20at%2011.19.39 AM.png)
+    ![Data Generation Script Executed](screenshots/Screenshot%202025-12-05%20at%2011.19.39 AM.png)
 
-    ![CSV Content Verification](screenshorts/Screenshot%202025-12-05%20at%2011.20.15 AM.png)
+    ![CSV Content Verification](screenshots/Screenshot%202025-12-05%20at%2011.20.15 AM.png)
 
 2.  **Connect to `psql` and Create Database/Table:**
 
@@ -105,9 +105,9 @@ created the 60-record CSV file and set up the target table in the database.
     \q
     ```
 
-    ![Database and Table Created](screenshorts/Screenshot%202025-12-05%20at%2011.25.24 AM.png)
+    ![Database and Table Created](screenshots/Screenshot%202025-12-05%20at%2011.25.24 AM.png)
 
-    ![SQLAlchemy Bulk Data Loading](screenshorts/Screenshot%202025-12-05%20at%2011.31.02 AM.png)
+    ![SQLAlchemy Bulk Data Loading](screenshots/Screenshot%202025-12-05%20at%2011.31.02 AM.png)
 
 ## Data Loading Methods Executed
 
@@ -142,7 +142,7 @@ ran command -
 python load_pandas.py
 ```
 
-![Pandas Data Loading](screenshorts/Screenshot%202025-12-05%20at%2011.30.00 AM.png)
+![Pandas Data Loading](screenshots/Screenshot%202025-12-05%20at%2011.30.00 AM.png)
 
 ### Method 2: Standard SQL `INSERT` Statements (`psycopg2`)
 
@@ -186,7 +186,7 @@ ran command -
 python load_insert.py
 ```
 
-![Insert Load Successfull](screenshorts/Screenshot%202025-12-05%20at%2011.39.50 AM.png)
+![Insert Load Successfull](screenshots/Screenshot%202025-12-05%20at%2011.39.50 AM.png)
 
 ### Method 3: SQLAlchemy ORM Bulk Insertion (`bulk_insert_mappings`)
 
@@ -239,4 +239,4 @@ ran commands -
 python load_bulk.py
 ```
 
-![SQLAlchemy Load Successfull](screenshorts/Screenshot%202025-12-05%20at%2011.53.36 AM.png)
+![SQLAlchemy Load Successfull](screenshots/Screenshot%202025-12-05%20at%2011.53.36 AM.png)
