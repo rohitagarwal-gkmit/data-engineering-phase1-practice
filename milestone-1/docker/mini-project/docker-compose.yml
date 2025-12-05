@@ -1,0 +1,31 @@
+services:
+  postgres-db:
+    image: postgres:13
+    container_name: postgres_db
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: qwerty
+      POSTGRES_DB: employees
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./db/script.sql:/docker-entrypoint-initdb.d/script.sql
+      - postgres-data:/var/lib/postgresql/data
+    networks:
+      - test-network
+
+  app:
+    build: .
+    container_name: fastapi-test-app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - postgres-db
+    networks:
+      - test-network
+
+volumes:
+  postgres-data:
+
+networks:
+  test-network:
