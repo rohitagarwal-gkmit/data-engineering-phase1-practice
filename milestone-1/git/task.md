@@ -1,108 +1,93 @@
 # Task 2 - Git Merge vs Git Rebase
 
-This document shows the difference between git merge and git rebase by creating branches and integrating them back to main.
+This document shows the difference between `git merge` and `git rebase` by creating branches, integrating the changes from `main` _into_ the feature branches, and then pushing the updated history back to the remote repository. This demonstrates a common workflow for keeping feature branches up-to-date.
 
-## Setup
+## Setup and Remote Operations
 
-Created two branches from main and made them diverge with commits.
-
-### Commands Run:
-
-1. **Create branches:**
-
-   ```bash
-   git checkout -b branch-1
-   git checkout -b branch-2
-   ```
-
-2. **Add commit on main to make branches diverge:**
-
-   ```bash
-   git checkout main
-   git commit -m "chore: test_file"
-   ```
-
-3. **Add commit on branch-1:**
-
-   ```bash
-   git checkout branch-1
-   git commit -m "feat: Commit C on branch-1"
-   ```
-
-4. **Add commit on branch-2:**
-
-   ```bash
-   git checkout branch-2
-   git commit -m "feat: Commit D on branch-2"
-   ```
-
-## Merge Operation
-
-Integrated branch-1 into main using git merge.
+The first phase involved creating the necessary branches and publishing them to the remote (`origin`) before making the branches diverge.
 
 ### Commands Run:
 
-1. **Merge branch-1:**
+1.  **Initial Commit and Push to `origin`:**
 
-   ```bash
-   git checkout main
-   git merge branch-1
-   ```
+    ```bash
+    git commit -m "feat: Initial commit (A)"
+    git push -u origin main
+    ```
 
-The merge created a merge commit that preserves the branch history.
+2.  **Create, Publish, and Diverge:**
 
-## Rebase Operation
+    ```bash
+    # Create branches locally and push to remote
+    git checkout -b branch-1
+    git push -u origin branch-1
+    git checkout -b branch-2
+    git push -u origin branch-2
 
-Integrated branch-2 into main using git rebase.
+    # Create Commit B on main (the divergence point)
+    git checkout main
+    git commit -m "chore: Commit B on main"
+    git push origin main
+    ```
 
-### Commands Run:
+3.  **Add Feature Commits (C and D) and Push:**
 
-1. **Rebase branch-2 onto main:**
+    ```bash
+    # Add Commit C and push
+    git checkout branch-1
+    git commit -m "feat: Commit C on branch-1"
+    git push origin branch-1
 
-   ```bash
-   git checkout branch-2
-   git rebase main
-   ```
+    # Add Commit D and push
+    git checkout branch-2
+    git commit -m "feat: Commit D on branch-2"
+    git push origin branch-2
+    ```
 
-The rebase rewrote the commit history to appear linear.
+![](./screenshots/Screenshot 2025-12-05 at 4.06.43 PM.png)
 
-## Final Result
+![](./screenshots/Screenshot%202025-12-05%20at%204.08.15 PM.png)
 
-Checked the complete git history to see both merge and rebase results.
+### Merge Operation (`main` into `branch-1`)
 
-```bash
-git log --graph
-```
+The merge operation was performed on `branch-1` to pull `main`'s changes.
 
-## Key Differences
+#### Commands Run:
 
-**Merge:**
+1.  **Perform Merge:**
+    ```bash
+    git checkout branch-1
+    git merge main
+    ```
+2.  **Publish Changes:**
+    ```bash
+    git push origin branch-1
+    ```
 
-- Preserves original branch history
-- Creates merge commits
-- Shows when branches diverged and merged
-- History looks like a tree with branches
+The merge created a **Merge Commit (M)** on `branch-1`. This new commit incorporates `main`'s history (**B**) while preserving the original timeline of `branch-1` (**C**).
 
-**Rebase:**
+### Rebase Operation (`branch-2` onto `main`)
 
-- Rewrites commit history
-- Makes history look linear
-- Loses information about when branching happened
-- History appears as a straight line
+The rebase operation was performed on `branch-2` to clean up its history by placing it on top of `main`.
 
-Choose merge for shared branches and rebase for cleaning up local feature branches.
+#### Commands Run:
 
-## Screenshots
+1.  **Perform Rebase:**
+    ```bash
+    git checkout branch-2
+    git rebase main
+    ```
+2.  **Publish Changes (History Rewritten):**
+    ```bash
+    git push origin branch-2 --force
+    ```
 
-branch-1 merge to the main branch showing the merge commits to merge the two branch togethere
-![Initial setup with diverging branches](screenshots/Screenshot%202025-12-05%20at%2012.39.56 PM.png)
+The rebase **rewrote Commit D** as **D'** and moved it to appear immediately after `main`'s commit (**B**). Because the local history was altered, a **forced push (`--force`)** was required to update the remote branch.
 
-history of the entire commands ran to achive this result
-![Merge result showing non-linear history](screenshots/Screenshot%202025-12-05%20at%2012.40.57 PM.png)
-![Final git log showing both merge and rebase histories](screenshots/Screenshot%202025-12-05%20at%2012.43.11 PM.png)
+## 📸 Screenshots
 
-after the rebase from the main branch so to rewrite the commit D on the history fetched from the main
-![Rebase result showing linear history](screenshots/Screenshot%202025-12-05%20at%2012.42.37 PM.png)
+![](./screenshots/Screenshot%202025-12-05%20at%204.12.09 PM.png)
 
-git tree after the merge and the rebase
-![Additional verification of git history](screenshots/Screenshot%202025-12-05%20at%2012.47.41 PM.png)
+![](./screenshots/Screenshot%202025-12-05%20at%204.14.44 PM.png)
+
+![](./screenshots/20251205_162850.jpg)
