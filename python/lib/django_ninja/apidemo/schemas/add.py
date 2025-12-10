@@ -11,8 +11,8 @@ class AddRequest(BaseModel):
         b (int): Second integer.
     """
 
-    a: int = 1
-    b: int = 2
+    a: int
+    b: int
 
 
 # Response schema - {"result": int}
