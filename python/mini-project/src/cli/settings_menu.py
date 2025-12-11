@@ -1,15 +1,11 @@
-from .main_menu import MainMenu
-
-main_menu = MainMenu()
-
-
 class SettingsMenu:
     def __init__(self) -> None:
-        """Initializes the SettingsMenu class and displays the settings menu."""
-
-        self.show_settings_menu()
-        choice = self.get_user_choice()
-        self.execute_choice(choice)
+        """Initializes the SettingsMenu class and displays the menu."""
+        while True:
+            self.show_settings_menu()
+            choice = self.get_user_choice()
+            if not self.execute_choice(choice):
+                break
 
     def show_settings_menu(self) -> None:
         """Displays the settings menu options to the user."""
@@ -26,16 +22,15 @@ class SettingsMenu:
             int: The user's choice as an integer.
         """
 
-        try:
-            choice = int(input("Enter your choice (1-3): "))
-            if choice in range(1, 4):
-                return choice
-            else:
-                print("Invalid choice. Please select a number between 1 and 3.")
-                return self.get_user_choice()
-        except ValueError:
-            print("Invalid input. Please enter a number.")
-            return self.get_user_choice()
+        while True:
+            try:
+                choice = int(input("Enter your choice (1-3): "))
+                if choice in range(1, 4):
+                    return choice
+                else:
+                    print("Invalid choice. Please select a number between 1 and 3.")
+            except ValueError:
+                print("Invalid input. Please enter a number.")
 
     def execute_choice(self, choice: int) -> None:
         """Executes the action based on the user's settings menu choice.
@@ -45,11 +40,16 @@ class SettingsMenu:
         """
 
         if choice == 1:
-            pass
+            print("Change User Name selected.")
+            # TODO: Implement name change logic
+            return True
         elif choice == 2:
-            pass
+            print("Change Preferred Currency selected.")
+            # TODO: Implement currency change logic
+            return True
         elif choice == 3:
-            main_menu.__init__()()
+            print("Returning to Main Menu...")
+            return False
         else:
             print("Invalid choice.")
-            SettingsMenu.get_user_choice(self)
+            return True
