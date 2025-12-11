@@ -1,0 +1,16 @@
+{
+  "app_info": {
+    "name": "Expense Tracker CLI"
+  },
+  "default_settings": {
+    "default_currency": "INR",
+    "data_file_path": "data/transactions.json"
+  },
+  "supported_currencies": ["INR", "USD", "EUR", "GBP"],
+  "user_preferences": {
+    "currency": ""
+  },
+  "user_details": {
+    "name": ""
+  }
+}
