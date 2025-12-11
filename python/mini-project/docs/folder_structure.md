@@ -2,9 +2,6 @@
 
 ```
 expense-tracker/
-├── .github/
-│   └── workflows/
-│       └── ci.yml
 ├── src/
 │   ├── __init__.py
 │   ├── main.py

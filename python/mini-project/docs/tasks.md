@@ -3,11 +3,8 @@
 ## Project Setup
 
 - [x] Create virtual environment using venv or pyenv
-- [] Initialize .gitignore file for Python projects
+- [x] Initialize .gitignore file for Python projects
 - [x] Create requirements.txt file
-- [] Set up folder structure as per project layout
-- [] Initialize all **init**.py files in packages
-- [] Set up logging configuration
 
 ## Data Models
 
