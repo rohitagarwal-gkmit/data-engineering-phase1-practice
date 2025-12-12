@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "amount": 1000.0,
+        "category": "FOOD",
+        "description": "Snacks",
+        "date": "2025-12-12"
+    },
+    {
+        "id": 2,
+        "amount": 5000.0,
+        "category": "TRANSPORT",
+        "description": "bus card",
+        "date": "2025-12-12"
+    }
+]

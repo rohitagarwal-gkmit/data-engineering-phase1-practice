@@ -64,23 +64,33 @@ class MainMenu:
         """
 
         if choice == MainMenu.ADD_RECORD:
-            # TODO: Implement add record logic
+            from src.cli.add_record_menu import AddRecordMenu
+
+            AddRecordMenu()
             return True
 
         elif choice == MainMenu.VIEW_TRANSACTIONS:
-            # TODO: Implement view transactions logic
+            from src.cli.view_transactions_menu import ViewTransactionsMenu
+
+            ViewTransactionsMenu()
             return True
 
         elif choice == MainMenu.VIEW_SUMMARY:
-            # TODO: Implement view summary logic
+            from src.cli.view_summary_menu import ViewSummaryMenu
+
+            ViewSummaryMenu()
             return True
 
         elif choice == MainMenu.EXPORT_IMPORT:
-            # TODO: Implement export/import logic
+            from src.cli.export_import_menu import ExportImportMenu
+
+            ExportImportMenu()
             return True
 
         elif choice == MainMenu.CURRENCY_CONVERTOR:
-            # TODO: Implement currency convertor logic
+            from src.cli.currency_convertor_menu import CurrencyConvertorMenu
+
+            CurrencyConvertorMenu()
             return True
 
         elif choice == MainMenu.SETTINGS:
