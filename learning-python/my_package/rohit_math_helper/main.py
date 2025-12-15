@@ -1,3 +1,6 @@
+import pandas as pd
+
+
 class MathHelperBase:
     """A helper class for basic mathematical operations. base python and no dataFrames used.
 
@@ -84,8 +87,6 @@ class MathHelperWithDataFrames:
         multiply(df1, df2): Returns the element-wise product of two DataFrames.
         divide(df1, df2): Returns the element-wise quotient of two DataFrames.
     """
-
-    import pandas as pd
 
     @staticmethod
     def add(df1: pd.DataFrame, df2: pd.DataFrame) -> pd.DataFrame:
