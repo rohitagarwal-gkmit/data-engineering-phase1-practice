@@ -1,6 +1,6 @@
 [project]
 name = "rohit_math_helper"
-version = "0.1.1"
+version = "0.1.2"
 description = "A Math Helper"
 authors = [
     {name = "rohitagarwal-gkmit",email = "rohitagarwal@gkmit.co"}

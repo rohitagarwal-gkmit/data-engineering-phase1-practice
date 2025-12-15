@@ -1,1 +1,2 @@
-from .main import MathHelper
+from .main import MathHelperBase
+from .main import MathHelperWithDataFrames

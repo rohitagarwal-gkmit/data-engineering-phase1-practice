@@ -1,5 +1,5 @@
-class MathHelper:
-    """A helper class for basic mathematical operations.
+class MathHelperBase:
+    """A helper class for basic mathematical operations. base python and no dataFrames used.
 
     Methods:
         add(a, b): Returns the sum of a and b.
@@ -73,3 +73,61 @@ class MathHelper:
             return 1
 
         return a**b
+
+
+class MathHelperWithDataFrames:
+    """A helper class for basic mathematical operations using pandas DataFrames.
+
+    Methods:
+        add(df1, df2): Returns the element-wise sum of two DataFrames.
+        subtract(df1, df2): Returns the element-wise difference of two DataFrames.
+        multiply(df1, df2): Returns the element-wise product of two DataFrames.
+        divide(df1, df2): Returns the element-wise quotient of two DataFrames.
+    """
+
+    import pandas as pd
+
+    @staticmethod
+    def add(df1: pd.DataFrame, df2: pd.DataFrame) -> pd.DataFrame:
+        """Returns the element-wise sum of two DataFrames.
+        Args:
+            df1 (pd.DataFrame): The first DataFrame.
+            df2 (pd.DataFrame): The second DataFrame.
+        Returns:
+            pd.DataFrame: The element-wise sum of df1 and df2.
+        """
+
+        return df1.add(df2)
+
+    @staticmethod
+    def subtract(df1: pd.DataFrame, df2: pd.DataFrame) -> pd.DataFrame:
+        """Returns the element-wise difference of two DataFrames.
+        Args:
+            df1 (pd.DataFrame): The first DataFrame.
+            df2 (pd.DataFrame): The second DataFrame.
+        Returns:
+            pd.DataFrame: The element-wise difference of df1 and df2.
+        """
+        return df1.subtract(df2)
+
+    @staticmethod
+    def multiply(df1: pd.DataFrame, df2: pd.DataFrame) -> pd.DataFrame:
+        """Returns the element-wise product of two DataFrames.
+        Args:
+            df1 (pd.DataFrame): The first DataFrame.
+            df2 (pd.DataFrame): The second DataFrame.
+        Returns:
+            pd.DataFrame: The element-wise product of df1 and df2.
+        """
+        return df1.multiply(df2)
+
+    @staticmethod
+    def divide(df1: pd.DataFrame, df2: pd.DataFrame) -> pd.DataFrame:
+        """Returns the element-wise quotient of two DataFrames.
+        Args:
+            df1 (pd.DataFrame): The first DataFrame.
+            df2 (pd.DataFrame): The second DataFrame.
+        Returns:
+            pd.DataFrame: The element-wise quotient of df1 and df2.
+        """
+        return df1.divide(df2)
