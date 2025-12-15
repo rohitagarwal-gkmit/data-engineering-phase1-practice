@@ -1,0 +1,17 @@
+[project]
+name = "rohit_math_helper"
+version = "0.1.1"
+description = "A Math Helper"
+authors = [
+    {name = "rohitagarwal-gkmit",email = "rohitagarwal@gkmit.co"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
