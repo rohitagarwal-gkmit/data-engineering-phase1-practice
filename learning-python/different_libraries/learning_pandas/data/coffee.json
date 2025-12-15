@@ -1,0 +1,16 @@
+[
+  { "Day": "Monday", "Coffee Type": "Espresso", "Units Sold": 25 },
+  { "Day": "Monday", "Coffee Type": "Latte", "Units Sold": 15 },
+  { "Day": "Tuesday", "Coffee Type": "Espresso", "Units Sold": 30 },
+  { "Day": "Tuesday", "Coffee Type": "Latte", "Units Sold": 20 },
+  { "Day": "Wednesday", "Coffee Type": "Espresso", "Units Sold": 35 },
+  { "Day": "Wednesday", "Coffee Type": "Latte", "Units Sold": 25 },
+  { "Day": "Thursday", "Coffee Type": "Espresso", "Units Sold": 40 },
+  { "Day": "Thursday", "Coffee Type": "Latte", "Units Sold": 30 },
+  { "Day": "Friday", "Coffee Type": "Espresso", "Units Sold": 45 },
+  { "Day": "Friday", "Coffee Type": "Latte", "Units Sold": 35 },
+  { "Day": "Saturday", "Coffee Type": "Espresso", "Units Sold": 45 },
+  { "Day": "Saturday", "Coffee Type": "Latte", "Units Sold": 35 },
+  { "Day": "Sunday", "Coffee Type": "Espresso", "Units Sold": 45 },
+  { "Day": "Sunday", "Coffee Type": "Latte", "Units Sold": 35 }
+]
