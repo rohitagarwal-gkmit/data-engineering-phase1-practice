@@ -1,0 +1,12 @@
+{
+  "id": "ff8081819782e69e019b21b309e874ec",
+  "name": "Apple MacBook Pro 16 (Updated Name)",
+  "updatedAt": "2025-12-15T11:09:00.840+00:00",
+  "data": {
+    "year": 2019,
+    "price": 2049.99,
+    "CPU model": "Intel Core i9",
+    "Hard disk size": "1 TB",
+    "color": "silver"
+  }
+}
