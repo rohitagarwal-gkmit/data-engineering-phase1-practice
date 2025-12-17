@@ -20,16 +20,24 @@ class Test:
     def multiply(cls, a: int, b: int) -> int:
         return a * b
 
+    # Right Static Method
     @staticmethod
     def test_method() -> str:
         return "This is a static method"
+
+    # Wrong Static Method
+    @staticmethod
+    def wrong_test_method() -> int:
+        try:
+            return self.a + self.b
+        except:
+            return "Can't use the self in the static method"
 
 
 test = Test(5, 10)
 
 
-print(Test.multiply(3, 4))
-
-print(test.add())
-
-print(Test.test_method())
+print(test.add())  # Method
+print(Test.multiply(3, 4))  # Class Method
+print(Test.test_method())  # Statc Method - Right one
+print(Test.wrong_test_method())  # Statc Method - Wrong one
