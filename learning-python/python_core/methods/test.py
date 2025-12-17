@@ -7,6 +7,15 @@ class Test:
     def add(self) -> int:
         return self.a + self.b
 
+    # what are classmethod and staticmethod in python
+
+    # Class methods are methods that are bound to the class and not the instance of the class.
+    # They can access and modify class state that applies across all instances of the class.
+    # Static methods, on the other hand, do not have access to the instance (self) or class (cls) and
+    # are used to group functions that have some logical connection to the class.
+
+    # Example of classmethod and staticmethod
+
     @classmethod
     def multiply(cls, a: int, b: int) -> int:
         return a * b
