@@ -3,20 +3,20 @@ name = "rohit_math_helper"
 version = "0.1.2"
 description = "A Math Helper"
 authors = [
-    {name = "rohitagarwal-gkmit",email = "rohitagarwal@gkmit.co"}
+    { name = "rohitagarwal-gkmit", email = "rohitagarwal@gkmit.co" }
 ]
-license = {text = "MIT"}
+license = { text = "MIT" }
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = [
-numpy==2.3.5
-pandas==2.3.3
-python-dateutil==2.9.0.post0
-pytz==2025.2
-six==1.17.0
-tzdata==2025.3
-]
 
+dependencies = [
+    "numpy==2.3.5",
+    "pandas==2.3.3",
+    "python-dateutil==2.9.0.post0",
+    "pytz==2025.2",
+    "six==1.17.0",
+    "tzdata==2025.3"
+]
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
