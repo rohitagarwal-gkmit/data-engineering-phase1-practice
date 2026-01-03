@@ -19,7 +19,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 
 def make_request():
-    response = requests.get("http://127.0.0.1:8000/")
+    requests.get("http://127.0.0.1:8000/")
 
 
 def non_threading():
