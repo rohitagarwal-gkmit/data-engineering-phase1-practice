@@ -1,0 +1,151 @@
+"department_id","name"
+1,"Dept 001 - Soni, Srinivas and Chacko"
+2,Dept 002 - Mallick LLC
+3,Dept 003 - Kala Ltd
+4,"Dept 004 - Bhatnagar, Bail and Virk"
+5,"Dept 005 - Sunder, Panchal and Bhatnagar"
+6,"Dept 006 - Panchal, Vig and Jani"
+7,Dept 007 - Lad-Chanda
+8,Dept 008 - Ahluwalia Inc
+9,Dept 009 - Kurian-Koshy
+10,"Dept 010 - Atwal, Sekhon and Master"
+11,Dept 011 - Chakraborty and Sons
+12,Dept 012 - Sarma-Kibe
+13,Dept 013 - Talwar-Raja
+14,Dept 014 - Rout-Suri
+15,Dept 015 - Doshi Ltd
+16,Dept 016 - Andra Group
+17,"Dept 017 - Sachar, Narayan and Ramesh"
+18,Dept 018 - Chakraborty Ltd
+19,"Dept 019 - Chad, Saraf and Sandal"
+20,Dept 020 - Garde Ltd
+21,Dept 021 - Shenoy Ltd
+22,Dept 022 - Padmanabhan-Sagar
+23,Dept 023 - Peri-Suresh
+24,"Dept 024 - Nadig, Munshi and Bhagat"
+25,"Dept 025 - Nath, Andra and Chanda"
+26,"Dept 026 - Pradhan, Taneja and Salvi"
+27,"Dept 027 - Maharaj, Mitter and Chauhan"
+28,"Dept 028 - Badal, Trivedi and Rajagopal"
+29,Dept 029 - Goyal Inc
+30,"Dept 030 - Agarwal, Gaba and Salvi"
+31,Dept 031 - Sidhu-Dhingra
+32,"Dept 032 - Kota, Sundaram and Raju"
+33,Dept 033 - Mital and Sons
+34,Dept 034 - Basu Group
+35,Dept 035 - Das Inc
+36,Dept 036 - Merchant-Mittal
+37,"Dept 037 - Vala, Ghosh and Shere"
+38,Dept 038 - Radhakrishnan PLC
+39,"Dept 039 - Dugal, Chand and Bal"
+40,"Dept 040 - Nadkarni, Apte and Deshpande"
+41,Dept 041 - Dhaliwal-Chad
+42,Dept 042 - Madan-Boase
+43,"Dept 043 - Sawhney, Nagi and Narang"
+44,Dept 044 - Peri-Bains
+45,Dept 045 - Raja Inc
+46,"Dept 046 - Mutti, Madan and Devan"
+47,"Dept 047 - Chand, Balay and Deo"
+48,Dept 048 - Jayaraman-Balay
+49,"Dept 049 - Bhargava, Nagi and Saini"
+50,Dept 050 - Gour-Agarwal
+51,Dept 051 - Chada-Sood
+52,Dept 052 - Jain and Sons
+53,Dept 053 - Arya-Pathak
+54,Dept 054 - Chaudry-Patil
+55,Dept 055 - Dubey PLC
+56,"Dept 056 - Ramachandran, Shan and Shenoy"
+57,"Dept 057 - Saraf, Boase and Kaur"
+58,Dept 058 - Gandhi Group
+59,Dept 059 - Karnik Inc
+60,Dept 060 - Bajaj Inc
+61,"Dept 061 - Shetty, Chaudhry and Jaggi"
+62,"Dept 062 - Taneja, Karan and Date"
+63,"Dept 063 - Pathak, Shah and Choudhary"
+64,"Dept 064 - Hari, Srinivasan and Bali"
+65,"Dept 065 - Goyal, Dugar and Dasgupta"
+66,"Dept 066 - Khatri, Sarkar and Joshi"
+67,Dept 067 - Tandon Group
+68,"Dept 068 - Borde, Goyal and Mohan"
+69,"Dept 069 - Rege, Dyal and Contractor"
+70,"Dept 070 - Rai, Gaba and Anand"
+71,Dept 071 - Purohit-Kar
+72,Dept 072 - Bhagat Inc
+73,Dept 073 - Sundaram Ltd
+74,Dept 074 - Oak-Chauhan
+75,"Dept 075 - Contractor, Mahal and Prabhu"
+76,Dept 076 - Lala-Vala
+77,"Dept 077 - Naidu, Batta and Tiwari"
+78,Dept 078 - Kota and Sons
+79,"Dept 079 - Lata, Purohit and Garg"
+80,"Dept 080 - Basu, Mahal and Gour"
+81,"Dept 081 - Sane, Munshi and Mane"
+82,"Dept 082 - Mann, Dhaliwal and Bhagat"
+83,Dept 083 - Narang LLC
+84,Dept 084 - Malhotra-Anand
+85,"Dept 085 - Ramachandran, Sha and Sura"
+86,Dept 086 - Prabhu-Goyal
+87,Dept 087 - Cherian-Gupta
+88,Dept 088 - Jani Ltd
+89,Dept 089 - Bora Inc
+90,"Dept 090 - Nagy, Vala and Jaggi"
+91,"Dept 091 - Dara, Sant and Ganesh"
+92,Dept 092 - Mohanty and Sons
+93,"Dept 093 - Iyengar, Parsa and Bose"
+94,"Dept 094 - Bhagat, Chandran and Padmanabhan"
+95,"Dept 095 - Mishra, Shah and Comar"
+96,Dept 096 - Ray-Kaul
+97,Dept 097 - Sethi-Sahni
+98,Dept 098 - Brahmbhatt-Sachdeva
+99,Dept 099 - Narula-Vig
+100,Dept 100 - Manne-Oommen
+101,"Dept 101 - Gupta, Pradhan and Date"
+102,"Dept 102 - Dey, Varghese and Gola"
+103,Dept 103 - Sani-Pillay
+104,Dept 104 - Bobal Inc
+105,Dept 105 - Sood-Mukhopadhyay
+106,Dept 106 - Ganesh-Khanna
+107,Dept 107 - Tank-Merchant
+108,Dept 108 - Mistry Ltd
+109,Dept 109 - Gopal and Sons
+110,"Dept 110 - Doshi, Ganesh and Nath"
+111,Dept 111 - Luthra Ltd
+112,"Dept 112 - Mahajan, Toor and Mand"
+113,Dept 113 - Sagar LLC
+114,Dept 114 - Prabhakar-Ganguly
+115,"Dept 115 - Joshi, Vaidya and Mammen"
+116,Dept 116 - Subramanian PLC
+117,Dept 117 - Garg-Patla
+118,Dept 118 - Ramesh-Dora
+119,"Dept 119 - Seth, Vasa and Loyal"
+120,"Dept 120 - Tara, Hora and Gara"
+121,Dept 121 - Agarwal-Master
+122,Dept 122 - Chander Group
+123,Dept 123 - Mangat-Soman
+124,Dept 124 - Sandhu-Sundaram
+125,"Dept 125 - Arya, Khare and Pal"
+126,"Dept 126 - Krishna, Chaudhary and Reddy"
+127,"Dept 127 - Pingle, Wagle and Tella"
+128,Dept 128 - Shere Inc
+129,Dept 129 - Wali-Sheth
+130,"Dept 130 - Arya, Tiwari and Gade"
+131,Dept 131 - Gulati PLC
+132,"Dept 132 - Dhawan, Dada and Bose"
+133,Dept 133 - Bhattacharyya Group
+134,Dept 134 - Anand Inc
+135,"Dept 135 - Mannan, Din and Chadha"
+136,Dept 136 - Date-Jhaveri
+137,"Dept 137 - Srivastava, Hari and Bajaj"
+138,Dept 138 - Borde Ltd
+139,Dept 139 - Bedi-Badami
+140,"Dept 140 - Anne, Chadha and Divan"
+141,"Dept 141 - Sastry, Nagarajan and Tailor"
+142,Dept 142 - Krishnamurthy LLC
+143,Dept 143 - Dewan-Patla
+144,Dept 144 - Mane-Swamy
+145,"Dept 145 - Mammen, Doshi and Raman"
+146,Dept 146 - Chhabra Ltd
+147,"Dept 147 - Krishna, Lala and Garde"
+148,Dept 148 - Sridhar-Setty
+149,"Dept 149 - Doshi, Bera and Varkey"
+150,"Dept 150 - Doctor, Deshpande and Mani"

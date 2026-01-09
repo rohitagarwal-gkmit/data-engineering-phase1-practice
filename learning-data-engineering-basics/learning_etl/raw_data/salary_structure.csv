@@ -1,0 +1,5 @@
+"structure_id","code","hra_pct","da_pct","allowance_pct"
+1,JUNIOR,20.00,30.00,10.00
+2,MID,25.00,35.00,15.00
+3,SENIOR,30.00,40.00,20.00
+4,LEAD,35.00,40.00,20.00
