@@ -1,0 +1,3306 @@
+{
+    "Tehran": {
+        "total_temp": 413566.39999999997,
+        "count": 24285,
+        "max_temp": 57.5,
+        "min_temp": -24.0,
+        "average_temp": 17.029705579575868,
+        "mean_temp": 16.75
+    },
+    "Mzuzu": {
+        "total_temp": 428298.9,
+        "count": 24169,
+        "max_temp": 57.8,
+        "min_temp": -23.4,
+        "average_temp": 17.72100211014109,
+        "mean_temp": 17.2
+    },
+    "Cairo": {
+        "total_temp": 520416.40000000014,
+        "count": 24246,
+        "max_temp": 60.6,
+        "min_temp": -24.9,
+        "average_temp": 21.464010558442634,
+        "mean_temp": 17.85
+    },
+    "Las Vegas": {
+        "total_temp": 488830.9999999999,
+        "count": 24106,
+        "max_temp": 61.8,
+        "min_temp": -19.8,
+        "average_temp": 20.278395420227323,
+        "mean_temp": 21.0
+    },
+    "Denver": {
+        "total_temp": 249262.49999999997,
+        "count": 24308,
+        "max_temp": 51.2,
+        "min_temp": -36.3,
+        "average_temp": 10.254340134935,
+        "mean_temp": 7.450000000000003
+    },
+    "Douala": {
+        "total_temp": 650067.6,
+        "count": 24381,
+        "max_temp": 64.9,
+        "min_temp": -9.5,
+        "average_temp": 26.66287683031869,
+        "mean_temp": 27.700000000000003
+    },
+    "Palembang": {
+        "total_temp": 662516.5,
+        "count": 24262,
+        "max_temp": 67.3,
+        "min_temp": -10.0,
+        "average_temp": 27.30675541999835,
+        "mean_temp": 28.65
+    },
+    "Charlotte": {
+        "total_temp": 397047.7000000001,
+        "count": 24534,
+        "max_temp": 53.4,
+        "min_temp": -22.6,
+        "average_temp": 16.183569739952723,
+        "mean_temp": 15.399999999999999
+    },
+    "Kyiv": {
+        "total_temp": 201542.40000000008,
+        "count": 24034,
+        "max_temp": 48.8,
+        "min_temp": -31.8,
+        "average_temp": 8.38572022967463,
+        "mean_temp": 8.499999999999998
+    },
+    "Maputo": {
+        "total_temp": 547132.4,
+        "count": 24075,
+        "max_temp": 71.7,
+        "min_temp": -19.1,
+        "average_temp": 22.72616407061267,
+        "mean_temp": 26.3
+    },
+    "Xi'an": {
+        "total_temp": 341252.00000000006,
+        "count": 24169,
+        "max_temp": 54.5,
+        "min_temp": -22.0,
+        "average_temp": 14.11940916049485,
+        "mean_temp": 16.25
+    },
+    "Darwin": {
+        "total_temp": 669168.3,
+        "count": 24162,
+        "max_temp": 67.2,
+        "min_temp": -19.0,
+        "average_temp": 27.695070772287064,
+        "mean_temp": 24.1
+    },
+    "Benghazi": {
+        "total_temp": 482534.2,
+        "count": 24370,
+        "max_temp": 59.7,
+        "min_temp": -22.1,
+        "average_temp": 19.8003364792778,
+        "mean_temp": 18.8
+    },
+    "Aden": {
+        "total_temp": 699519.2,
+        "count": 24164,
+        "max_temp": 64.3,
+        "min_temp": -10.1,
+        "average_temp": 28.948816421122327,
+        "mean_temp": 27.099999999999998
+    },
+    "Hiroshima": {
+        "total_temp": 392428.19999999995,
+        "count": 24098,
+        "max_temp": 56.7,
+        "min_temp": -27.0,
+        "average_temp": 16.28467922649182,
+        "mean_temp": 14.850000000000001
+    },
+    "Murmansk": {
+        "total_temp": 15866.1,
+        "count": 24113,
+        "max_temp": 39.7,
+        "min_temp": -37.1,
+        "average_temp": 0.6579894662630117,
+        "mean_temp": 1.3000000000000007
+    },
+    "Manila": {
+        "total_temp": 690616.8999999998,
+        "count": 24276,
+        "max_temp": 71.0,
+        "min_temp": -13.3,
+        "average_temp": 28.448545888943805,
+        "mean_temp": 28.85
+    },
+    "Bulawayo": {
+        "total_temp": 452674.9000000001,
+        "count": 24044,
+        "max_temp": 61.0,
+        "min_temp": -24.2,
+        "average_temp": 18.826938113458663,
+        "mean_temp": 18.4
+    },
+    "Bangui": {
+        "total_temp": 628498.2999999999,
+        "count": 24171,
+        "max_temp": 70.0,
+        "min_temp": -16.6,
+        "average_temp": 26.00216374994828,
+        "mean_temp": 26.7
+    },
+    "Seville": {
+        "total_temp": 463957.99999999994,
+        "count": 24155,
+        "max_temp": 55.4,
+        "min_temp": -24.4,
+        "average_temp": 19.207534671910576,
+        "mean_temp": 15.5
+    },
+    "Nicosia": {
+        "total_temp": 480147.4,
+        "count": 24278,
+        "max_temp": 59.8,
+        "min_temp": -19.2,
+        "average_temp": 19.777057418238737,
+        "mean_temp": 20.299999999999997
+    },
+    "Antsiranana": {
+        "total_temp": 610482.9,
+        "count": 24251,
+        "max_temp": 62.8,
+        "min_temp": -18.0,
+        "average_temp": 25.173514494247662,
+        "mean_temp": 22.4
+    },
+    "Pretoria": {
+        "total_temp": 439597.9,
+        "count": 24094,
+        "max_temp": 57.0,
+        "min_temp": -19.0,
+        "average_temp": 18.245119116792562,
+        "mean_temp": 19.0
+    },
+    "Brisbane": {
+        "total_temp": 514459.8,
+        "count": 23945,
+        "max_temp": 60.7,
+        "min_temp": -16.4,
+        "average_temp": 21.485061599498852,
+        "mean_temp": 22.150000000000002
+    },
+    "Tripoli": {
+        "total_temp": 486002.19999999984,
+        "count": 24226,
+        "max_temp": 63.6,
+        "min_temp": -19.3,
+        "average_temp": 20.06118220094113,
+        "mean_temp": 22.15
+    },
+    "Kumasi": {
+        "total_temp": 621706.9999999999,
+        "count": 23893,
+        "max_temp": 67.6,
+        "min_temp": -22.8,
+        "average_temp": 26.02046624534382,
+        "mean_temp": 22.4
+    },
+    "Sochi": {
+        "total_temp": 345168.60000000003,
+        "count": 24425,
+        "max_temp": 58.4,
+        "min_temp": -27.7,
+        "average_temp": 14.131774820880247,
+        "mean_temp": 15.35
+    },
+    "Chicago": {
+        "total_temp": 238320.60000000006,
+        "count": 24207,
+        "max_temp": 52.7,
+        "min_temp": -35.9,
+        "average_temp": 9.84511091832941,
+        "mean_temp": 8.400000000000002
+    },
+    "Portland (OR)": {
+        "total_temp": 298182.80000000005,
+        "count": 23849,
+        "max_temp": 55.5,
+        "min_temp": -29.3,
+        "average_temp": 12.502947712692357,
+        "mean_temp": 13.1
+    },
+    "S\u00e9gou": {
+        "total_temp": 675210.6999999998,
+        "count": 24206,
+        "max_temp": 71.1,
+        "min_temp": -10.8,
+        "average_temp": 27.894352639841355,
+        "mean_temp": 30.15
+    },
+    "Rome": {
+        "total_temp": 371729.7000000001,
+        "count": 24312,
+        "max_temp": 57.9,
+        "min_temp": -25.5,
+        "average_temp": 15.289967917077991,
+        "mean_temp": 16.2
+    },
+    "Reggane": {
+        "total_temp": 691372.8999999999,
+        "count": 24457,
+        "max_temp": 68.5,
+        "min_temp": -17.3,
+        "average_temp": 28.26891687451445,
+        "mean_temp": 25.6
+    },
+    "Vilnius": {
+        "total_temp": 143247.7,
+        "count": 24241,
+        "max_temp": 44.4,
+        "min_temp": -32.4,
+        "average_temp": 5.909314797244338,
+        "mean_temp": 6.0
+    },
+    "Kano": {
+        "total_temp": 639194.1,
+        "count": 24265,
+        "max_temp": 65.0,
+        "min_temp": -14.9,
+        "average_temp": 26.342225427570575,
+        "mean_temp": 25.05
+    },
+    "Timbuktu": {
+        "total_temp": 680353.1,
+        "count": 24297,
+        "max_temp": 72.0,
+        "min_temp": -13.3,
+        "average_temp": 28.001526937481994,
+        "mean_temp": 29.35
+    },
+    "Dar es Salaam": {
+        "total_temp": 624941.5999999999,
+        "count": 24254,
+        "max_temp": 66.5,
+        "min_temp": -16.2,
+        "average_temp": 25.76653747835408,
+        "mean_temp": 25.15
+    },
+    "Khartoum": {
+        "total_temp": 718604.1000000001,
+        "count": 24009,
+        "max_temp": 69.6,
+        "min_temp": -9.7,
+        "average_temp": 29.93061351993003,
+        "mean_temp": 29.949999999999996
+    },
+    "Niigata": {
+        "total_temp": 334344.70000000007,
+        "count": 23993,
+        "max_temp": 52.4,
+        "min_temp": -26.3,
+        "average_temp": 13.935093568957615,
+        "mean_temp": 13.049999999999999
+    },
+    "Philadelphia": {
+        "total_temp": 320859.00000000006,
+        "count": 24022,
+        "max_temp": 53.0,
+        "min_temp": -23.7,
+        "average_temp": 13.356881192240449,
+        "mean_temp": 14.65
+    },
+    "La Ceiba": {
+        "total_temp": 635628.3999999999,
+        "count": 24201,
+        "max_temp": 69.0,
+        "min_temp": -18.4,
+        "average_temp": 26.264551051609434,
+        "mean_temp": 25.3
+    },
+    "Pyongyang": {
+        "total_temp": 262220.60000000003,
+        "count": 24265,
+        "max_temp": 49.4,
+        "min_temp": -25.4,
+        "average_temp": 10.806536163198023,
+        "mean_temp": 12.0
+    },
+    "Wellington": {
+        "total_temp": 310340.5000000001,
+        "count": 24282,
+        "max_temp": 53.1,
+        "min_temp": -25.4,
+        "average_temp": 12.780681163001406,
+        "mean_temp": 13.850000000000001
+    },
+    "Jos": {
+        "total_temp": 552276.0999999999,
+        "count": 24311,
+        "max_temp": 63.0,
+        "min_temp": -16.5,
+        "average_temp": 22.717128049031295,
+        "mean_temp": 23.25
+    },
+    "Ngaound\u00e9r\u00e9": {
+        "total_temp": 532651.8999999999,
+        "count": 24143,
+        "max_temp": 61.1,
+        "min_temp": -17.8,
+        "average_temp": 22.062374187134985,
+        "mean_temp": 21.65
+    },
+    "Gagnoa": {
+        "total_temp": 623953.1000000002,
+        "count": 24104,
+        "max_temp": 63.8,
+        "min_temp": -12.7,
+        "average_temp": 25.885873713906413,
+        "mean_temp": 25.549999999999997
+    },
+    "Vaduz": {
+        "total_temp": 243607.0,
+        "count": 24153,
+        "max_temp": 51.1,
+        "min_temp": -29.2,
+        "average_temp": 10.085993458369561,
+        "mean_temp": 10.950000000000001
+    },
+    "Austin": {
+        "total_temp": 501634.3000000001,
+        "count": 24180,
+        "max_temp": 64.0,
+        "min_temp": -21.9,
+        "average_temp": 20.745835401157986,
+        "mean_temp": 21.05
+    },
+    "Nakhon Ratchasima": {
+        "total_temp": 661378.3999999999,
+        "count": 24189,
+        "max_temp": 64.3,
+        "min_temp": -17.6,
+        "average_temp": 27.34211418413328,
+        "mean_temp": 23.349999999999998
+    },
+    "Hargeisa": {
+        "total_temp": 532255.6000000001,
+        "count": 24591,
+        "max_temp": 65.2,
+        "min_temp": -19.6,
+        "average_temp": 21.644325159611245,
+        "mean_temp": 22.8
+    },
+    "Ljubljana": {
+        "total_temp": 263454.7000000001,
+        "count": 24119,
+        "max_temp": 48.6,
+        "min_temp": -27.9,
+        "average_temp": 10.923118703097149,
+        "mean_temp": 10.350000000000001
+    },
+    "Lahore": {
+        "total_temp": 594695.0000000005,
+        "count": 24550,
+        "max_temp": 66.3,
+        "min_temp": -14.2,
+        "average_temp": 24.223828920570284,
+        "mean_temp": 26.049999999999997
+    },
+    "Saint-Pierre": {
+        "total_temp": 135322.5,
+        "count": 24288,
+        "max_temp": 43.4,
+        "min_temp": -37.0,
+        "average_temp": 5.571578557312253,
+        "mean_temp": 3.1999999999999993
+    },
+    "San Diego": {
+        "total_temp": 427409.3000000003,
+        "count": 24072,
+        "max_temp": 58.5,
+        "min_temp": -25.0,
+        "average_temp": 17.755454469923574,
+        "mean_temp": 16.75
+    },
+    "Madrid": {
+        "total_temp": 361287.1,
+        "count": 24295,
+        "max_temp": 53.9,
+        "min_temp": -24.7,
+        "average_temp": 14.870841736982918,
+        "mean_temp": 14.6
+    },
+    "Pittsburgh": {
+        "total_temp": 264899.30000000005,
+        "count": 24307,
+        "max_temp": 49.7,
+        "min_temp": -28.7,
+        "average_temp": 10.898066400625336,
+        "mean_temp": 10.500000000000002
+    },
+    "Sydney": {
+        "total_temp": 426973.4,
+        "count": 24161,
+        "max_temp": 58.7,
+        "min_temp": -24.2,
+        "average_temp": 17.672008608915196,
+        "mean_temp": 17.25
+    },
+    "Virginia Beach": {
+        "total_temp": 382360.2,
+        "count": 24218,
+        "max_temp": 54.1,
+        "min_temp": -21.9,
+        "average_temp": 15.788264926913866,
+        "mean_temp": 16.1
+    },
+    "Ulaanbaatar": {
+        "total_temp": -10458.500000000002,
+        "count": 24253,
+        "max_temp": 37.6,
+        "min_temp": -39.8,
+        "average_temp": -0.431225003092401,
+        "mean_temp": -1.0999999999999979
+    },
+    "St. Louis": {
+        "total_temp": 334655.39999999997,
+        "count": 24119,
+        "max_temp": 57.9,
+        "min_temp": -29.3,
+        "average_temp": 13.875177246154482,
+        "mean_temp": 14.299999999999999
+    },
+    "Vladivostok": {
+        "total_temp": 116294.70000000003,
+        "count": 24087,
+        "max_temp": 45.9,
+        "min_temp": -32.1,
+        "average_temp": 4.828110599078342,
+        "mean_temp": 6.899999999999999
+    },
+    "Tijuana": {
+        "total_temp": 426777.79999999993,
+        "count": 23997,
+        "max_temp": 57.3,
+        "min_temp": -27.9,
+        "average_temp": 17.784631412259863,
+        "mean_temp": 14.7
+    },
+    "Salt Lake City": {
+        "total_temp": 280817.9,
+        "count": 24113,
+        "max_temp": 49.5,
+        "min_temp": -28.3,
+        "average_temp": 11.645912992991333,
+        "mean_temp": 10.6
+    },
+    "Upington": {
+        "total_temp": 491610.10000000003,
+        "count": 24178,
+        "max_temp": 59.6,
+        "min_temp": -23.0,
+        "average_temp": 20.332951443461,
+        "mean_temp": 18.3
+    },
+    "Halifax": {
+        "total_temp": 181258.89999999997,
+        "count": 24167,
+        "max_temp": 46.2,
+        "min_temp": -34.7,
+        "average_temp": 7.5002648239334615,
+        "mean_temp": 5.75
+    },
+    "Beirut": {
+        "total_temp": 501695.69999999995,
+        "count": 23943,
+        "max_temp": 64.7,
+        "min_temp": -19.5,
+        "average_temp": 20.95375266257361,
+        "mean_temp": 22.6
+    },
+    "Livingstone": {
+        "total_temp": 526581.4,
+        "count": 24204,
+        "max_temp": 63.9,
+        "min_temp": -18.7,
+        "average_temp": 21.755965956040324,
+        "mean_temp": 22.6
+    },
+    "Tegucigalpa": {
+        "total_temp": 530497.1000000002,
+        "count": 24431,
+        "max_temp": 63.7,
+        "min_temp": -16.3,
+        "average_temp": 21.714096844173394,
+        "mean_temp": 23.700000000000003
+    },
+    "Kuala Lumpur": {
+        "total_temp": 658527.9000000001,
+        "count": 24165,
+        "max_temp": 65.0,
+        "min_temp": -13.1,
+        "average_temp": 27.251309745499697,
+        "mean_temp": 25.95
+    },
+    "Baltimore": {
+        "total_temp": 319101.1000000001,
+        "count": 24343,
+        "max_temp": 54.5,
+        "min_temp": -30.9,
+        "average_temp": 13.108536334880668,
+        "mean_temp": 11.8
+    },
+    "Chihuahua": {
+        "total_temp": 451346.19999999995,
+        "count": 24202,
+        "max_temp": 59.5,
+        "min_temp": -22.9,
+        "average_temp": 18.649128171225517,
+        "mean_temp": 18.3
+    },
+    "Pontianak": {
+        "total_temp": 667868.4,
+        "count": 24135,
+        "max_temp": 70.5,
+        "min_temp": -14.9,
+        "average_temp": 27.67219390926041,
+        "mean_temp": 27.8
+    },
+    "Chittagong": {
+        "total_temp": 626597.3999999998,
+        "count": 24238,
+        "max_temp": 66.6,
+        "min_temp": -18.4,
+        "average_temp": 25.851860714580404,
+        "mean_temp": 24.099999999999998
+    },
+    "Kinshasa": {
+        "total_temp": 613314.5000000001,
+        "count": 24243,
+        "max_temp": 61.0,
+        "min_temp": -11.1,
+        "average_temp": 25.29862228272079,
+        "mean_temp": 24.95
+    },
+    "Entebbe": {
+        "total_temp": 507061.9000000002,
+        "count": 24265,
+        "max_temp": 59.5,
+        "min_temp": -29.4,
+        "average_temp": 20.896843189779528,
+        "mean_temp": 15.05
+    },
+    "Riga": {
+        "total_temp": 147574.69999999998,
+        "count": 24253,
+        "max_temp": 48.2,
+        "min_temp": -32.5,
+        "average_temp": 6.0848018801797705,
+        "mean_temp": 7.850000000000001
+    },
+    "Helsinki": {
+        "total_temp": 140577.49999999997,
+        "count": 23658,
+        "max_temp": 52.4,
+        "min_temp": -36.6,
+        "average_temp": 5.942070335615858,
+        "mean_temp": 7.899999999999999
+    },
+    "Lake Havasu City": {
+        "total_temp": 569208.3999999999,
+        "count": 24064,
+        "max_temp": 62.6,
+        "min_temp": -26.3,
+        "average_temp": 23.65393949468085,
+        "mean_temp": 18.15
+    },
+    "Hanga Roa": {
+        "total_temp": 497518.10000000015,
+        "count": 24206,
+        "max_temp": 63.0,
+        "min_temp": -17.7,
+        "average_temp": 20.553503263653646,
+        "mean_temp": 22.65
+    },
+    "Detroit": {
+        "total_temp": 242715.10000000006,
+        "count": 24159,
+        "max_temp": 46.7,
+        "min_temp": -26.7,
+        "average_temp": 10.046570636201832,
+        "mean_temp": 10.000000000000002
+    },
+    "Jerusalem": {
+        "total_temp": 442249.10000000003,
+        "count": 24203,
+        "max_temp": 64.2,
+        "min_temp": -19.3,
+        "average_temp": 18.272491013510724,
+        "mean_temp": 22.450000000000003
+    },
+    "Accra": {
+        "total_temp": 641581.7000000001,
+        "count": 24287,
+        "max_temp": 68.9,
+        "min_temp": -12.3,
+        "average_temp": 26.416671470333927,
+        "mean_temp": 28.300000000000004
+    },
+    "London": {
+        "total_temp": 271607.7,
+        "count": 23928,
+        "max_temp": 50.8,
+        "min_temp": -31.0,
+        "average_temp": 11.351040621865597,
+        "mean_temp": 9.899999999999999
+    },
+    "Cotonou": {
+        "total_temp": 656447.6000000003,
+        "count": 24063,
+        "max_temp": 67.3,
+        "min_temp": -12.7,
+        "average_temp": 27.28037235589911,
+        "mean_temp": 27.299999999999997
+    },
+    "Napier": {
+        "total_temp": 354432.89999999997,
+        "count": 24328,
+        "max_temp": 57.6,
+        "min_temp": -29.3,
+        "average_temp": 14.56892880631371,
+        "mean_temp": 14.15
+    },
+    "Toliara": {
+        "total_temp": 576418.6999999998,
+        "count": 23834,
+        "max_temp": 65.2,
+        "min_temp": -12.5,
+        "average_temp": 24.18472350423764,
+        "mean_temp": 26.35
+    },
+    "Asmara": {
+        "total_temp": 379660.1999999999,
+        "count": 24401,
+        "max_temp": 57.9,
+        "min_temp": -21.4,
+        "average_temp": 15.559206589893853,
+        "mean_temp": 18.25
+    },
+    "San Antonio": {
+        "total_temp": 506943.79999999993,
+        "count": 24353,
+        "max_temp": 58.2,
+        "min_temp": -20.8,
+        "average_temp": 20.81648256888268,
+        "mean_temp": 18.700000000000003
+    },
+    "Odienn\u00e9": {
+        "total_temp": 633042.8999999997,
+        "count": 24363,
+        "max_temp": 68.6,
+        "min_temp": -22.0,
+        "average_temp": 25.983782785371247,
+        "mean_temp": 23.299999999999997
+    },
+    "Marrakesh": {
+        "total_temp": 473478.7999999999,
+        "count": 24140,
+        "max_temp": 62.9,
+        "min_temp": -22.9,
+        "average_temp": 19.613869096934543,
+        "mean_temp": 20.0
+    },
+    "Andorra la Vella": {
+        "total_temp": 237239.09999999995,
+        "count": 24479,
+        "max_temp": 53.6,
+        "min_temp": -31.6,
+        "average_temp": 9.691535601944521,
+        "mean_temp": 11.0
+    },
+    "Managua": {
+        "total_temp": 660863.5000000001,
+        "count": 24248,
+        "max_temp": 68.2,
+        "min_temp": -16.8,
+        "average_temp": 27.254350874298915,
+        "mean_temp": 25.700000000000003
+    },
+    "Shanghai": {
+        "total_temp": 404156.29999999993,
+        "count": 24215,
+        "max_temp": 56.6,
+        "min_temp": -23.1,
+        "average_temp": 16.69032830889944,
+        "mean_temp": 16.75
+    },
+    "Dhaka": {
+        "total_temp": 622131.9,
+        "count": 23962,
+        "max_temp": 69.4,
+        "min_temp": -14.4,
+        "average_temp": 25.96327101243636,
+        "mean_temp": 27.500000000000004
+    },
+    "Antananarivo": {
+        "total_temp": 432278.7,
+        "count": 24184,
+        "max_temp": 62.4,
+        "min_temp": -18.8,
+        "average_temp": 17.874574098577572,
+        "mean_temp": 21.799999999999997
+    },
+    "Belgrade": {
+        "total_temp": 308059.8999999998,
+        "count": 24379,
+        "max_temp": 52.0,
+        "min_temp": -26.3,
+        "average_temp": 12.636281225645014,
+        "mean_temp": 12.85
+    },
+    "Alice Springs": {
+        "total_temp": 506503.39999999997,
+        "count": 24015,
+        "max_temp": 61.2,
+        "min_temp": -16.8,
+        "average_temp": 21.09112637934624,
+        "mean_temp": 22.200000000000003
+    },
+    "Astana": {
+        "total_temp": 82883.40000000004,
+        "count": 24163,
+        "max_temp": 41.7,
+        "min_temp": -34.5,
+        "average_temp": 3.4301783718909094,
+        "mean_temp": 3.6000000000000014
+    },
+    "Phoenix": {
+        "total_temp": 580266.2,
+        "count": 24269,
+        "max_temp": 64.5,
+        "min_temp": -19.0,
+        "average_temp": 23.909769665004738,
+        "mean_temp": 22.75
+    },
+    "Fukuoka": {
+        "total_temp": 413040.10000000015,
+        "count": 24234,
+        "max_temp": 60.8,
+        "min_temp": -26.2,
+        "average_temp": 17.04382685483206,
+        "mean_temp": 17.299999999999997
+    },
+    "Bamako": {
+        "total_temp": 670942.8,
+        "count": 24206,
+        "max_temp": 67.3,
+        "min_temp": -10.2,
+        "average_temp": 27.718036850367678,
+        "mean_temp": 28.549999999999997
+    },
+    "Blantyre": {
+        "total_temp": 535832.7999999998,
+        "count": 24119,
+        "max_temp": 64.7,
+        "min_temp": -18.1,
+        "average_temp": 22.216211285708354,
+        "mean_temp": 23.3
+    },
+    "Rangpur": {
+        "total_temp": 582471.4,
+        "count": 23969,
+        "max_temp": 62.7,
+        "min_temp": -20.8,
+        "average_temp": 24.30103049772623,
+        "mean_temp": 20.950000000000003
+    },
+    "San Francisco": {
+        "total_temp": 352624.5999999999,
+        "count": 24135,
+        "max_temp": 63.8,
+        "min_temp": -26.0,
+        "average_temp": 14.610507561632481,
+        "mean_temp": 18.9
+    },
+    "Dubai": {
+        "total_temp": 659374.8999999999,
+        "count": 24466,
+        "max_temp": 64.8,
+        "min_temp": -14.8,
+        "average_temp": 26.95066214338265,
+        "mean_temp": 25.0
+    },
+    "Da Nang": {
+        "total_temp": 625337.8999999999,
+        "count": 24192,
+        "max_temp": 65.3,
+        "min_temp": -14.1,
+        "average_temp": 25.848954199735445,
+        "mean_temp": 25.599999999999998
+    },
+    "Adelaide": {
+        "total_temp": 418140.70000000007,
+        "count": 24282,
+        "max_temp": 55.7,
+        "min_temp": -23.8,
+        "average_temp": 17.220191911704145,
+        "mean_temp": 15.950000000000001
+    },
+    "Addis Ababa": {
+        "total_temp": 394413.89999999997,
+        "count": 24505,
+        "max_temp": 54.0,
+        "min_temp": -27.2,
+        "average_temp": 16.09524178739033,
+        "mean_temp": 13.4
+    },
+    "Sana'a": {
+        "total_temp": 484370.70000000007,
+        "count": 24145,
+        "max_temp": 62.9,
+        "min_temp": -22.7,
+        "average_temp": 20.06091116173121,
+        "mean_temp": 20.1
+    },
+    "Hamilton": {
+        "total_temp": 336372.2,
+        "count": 24470,
+        "max_temp": 54.8,
+        "min_temp": -25.3,
+        "average_temp": 13.746309767061708,
+        "mean_temp": 14.749999999999998
+    },
+    "Beijing": {
+        "total_temp": 312489.6,
+        "count": 24153,
+        "max_temp": 49.3,
+        "min_temp": -26.0,
+        "average_temp": 12.93792075518569,
+        "mean_temp": 11.649999999999999
+    },
+    "Saskatoon": {
+        "total_temp": 80484.39999999995,
+        "count": 24294,
+        "max_temp": 41.4,
+        "min_temp": -39.3,
+        "average_temp": 3.3129332345435065,
+        "mean_temp": 1.0500000000000007
+    },
+    "Moncton": {
+        "total_temp": 147259.0,
+        "count": 24273,
+        "max_temp": 46.2,
+        "min_temp": -35.4,
+        "average_temp": 6.066782021175792,
+        "mean_temp": 5.400000000000002
+    },
+    "Bridgetown": {
+        "total_temp": 660780.5999999997,
+        "count": 24511,
+        "max_temp": 66.0,
+        "min_temp": -15.0,
+        "average_temp": 26.958532903594293,
+        "mean_temp": 25.5
+    },
+    "Harbin": {
+        "total_temp": 124700.69999999997,
+        "count": 24511,
+        "max_temp": 44.9,
+        "min_temp": -35.5,
+        "average_temp": 5.087540288033942,
+        "mean_temp": 4.699999999999999
+    },
+    "Belize City": {
+        "total_temp": 648222.2,
+        "count": 24280,
+        "max_temp": 67.6,
+        "min_temp": -13.6,
+        "average_temp": 26.697784184514003,
+        "mean_temp": 26.999999999999996
+    },
+    "Rostov-on-Don": {
+        "total_temp": 239660.90000000002,
+        "count": 24173,
+        "max_temp": 48.2,
+        "min_temp": -36.5,
+        "average_temp": 9.914404500889423,
+        "mean_temp": 5.850000000000001
+    },
+    "Omaha": {
+        "total_temp": 256309.49999999997,
+        "count": 24225,
+        "max_temp": 49.9,
+        "min_temp": -30.1,
+        "average_temp": 10.580371517027862,
+        "mean_temp": 9.899999999999999
+    },
+    "Naha": {
+        "total_temp": 557565.3000000002,
+        "count": 24104,
+        "max_temp": 62.7,
+        "min_temp": -17.6,
+        "average_temp": 23.131650348489885,
+        "mean_temp": 22.55
+    },
+    "\u0130zmir": {
+        "total_temp": 434773.2999999998,
+        "count": 24188,
+        "max_temp": 56.4,
+        "min_temp": -23.6,
+        "average_temp": 17.97475194311228,
+        "mean_temp": 16.4
+    },
+    "Brazzaville": {
+        "total_temp": 608744.1,
+        "count": 24304,
+        "max_temp": 63.8,
+        "min_temp": -14.5,
+        "average_temp": 25.0470745556287,
+        "mean_temp": 24.65
+    },
+    "Oulu": {
+        "total_temp": 63157.9,
+        "count": 24002,
+        "max_temp": 39.7,
+        "min_temp": -36.6,
+        "average_temp": 2.6313598866761105,
+        "mean_temp": 1.5500000000000007
+    },
+    "Port-Gentil": {
+        "total_temp": 633594.2000000001,
+        "count": 24320,
+        "max_temp": 69.4,
+        "min_temp": -14.1,
+        "average_temp": 26.052393092105266,
+        "mean_temp": 27.650000000000002
+    },
+    "Makurdi": {
+        "total_temp": 626568.2999999998,
+        "count": 24127,
+        "max_temp": 65.3,
+        "min_temp": -14.7,
+        "average_temp": 25.96959008579599,
+        "mean_temp": 25.299999999999997
+    },
+    "Medan": {
+        "total_temp": 640118.5999999997,
+        "count": 24246,
+        "max_temp": 66.1,
+        "min_temp": -10.9,
+        "average_temp": 26.40099810277983,
+        "mean_temp": 27.599999999999998
+    },
+    "Perth": {
+        "total_temp": 452012.60000000003,
+        "count": 24157,
+        "max_temp": 64.3,
+        "min_temp": -19.6,
+        "average_temp": 18.711454236867162,
+        "mean_temp": 22.349999999999998
+    },
+    "Warsaw": {
+        "total_temp": 205001.60000000003,
+        "count": 24380,
+        "max_temp": 48.6,
+        "min_temp": -31.5,
+        "average_temp": 8.40859721082855,
+        "mean_temp": 8.55
+    },
+    "Edinburgh": {
+        "total_temp": 225882.60000000012,
+        "count": 24321,
+        "max_temp": 45.2,
+        "min_temp": -32.0,
+        "average_temp": 9.287553965708652,
+        "mean_temp": 6.600000000000001
+    },
+    "Marseille": {
+        "total_temp": 389385.0000000001,
+        "count": 24551,
+        "max_temp": 56.0,
+        "min_temp": -25.8,
+        "average_temp": 15.860250091645966,
+        "mean_temp": 15.1
+    },
+    "Kampala": {
+        "total_temp": 487973.1000000001,
+        "count": 24533,
+        "max_temp": 61.3,
+        "min_temp": -19.0,
+        "average_temp": 19.890478131496355,
+        "mean_temp": 21.15
+    },
+    "Prague": {
+        "total_temp": 204347.19999999995,
+        "count": 24413,
+        "max_temp": 48.4,
+        "min_temp": -33.4,
+        "average_temp": 8.370425592921801,
+        "mean_temp": 7.5
+    },
+    "Ashgabat": {
+        "total_temp": 413630.90000000014,
+        "count": 24143,
+        "max_temp": 59.9,
+        "min_temp": -27.2,
+        "average_temp": 17.13253945242928,
+        "mean_temp": 16.35
+    },
+    "Lusaka": {
+        "total_temp": 475313.6999999999,
+        "count": 23983,
+        "max_temp": 60.4,
+        "min_temp": -22.9,
+        "average_temp": 19.81877579952466,
+        "mean_temp": 18.75
+    },
+    "Monaco": {
+        "total_temp": 399172.9,
+        "count": 24173,
+        "max_temp": 55.1,
+        "min_temp": -24.9,
+        "average_temp": 16.513171720514624,
+        "mean_temp": 15.100000000000001
+    },
+    "Winnipeg": {
+        "total_temp": 72105.90000000001,
+        "count": 24183,
+        "max_temp": 41.9,
+        "min_temp": -38.5,
+        "average_temp": 2.9816772112641114,
+        "mean_temp": 1.6999999999999993
+    },
+    "Mexicali": {
+        "total_temp": 557736.2999999999,
+        "count": 24114,
+        "max_temp": 64.7,
+        "min_temp": -14.4,
+        "average_temp": 23.12914904205026,
+        "mean_temp": 25.150000000000002
+    },
+    "Boise": {
+        "total_temp": 273311.69999999995,
+        "count": 24076,
+        "max_temp": 48.9,
+        "min_temp": -33.0,
+        "average_temp": 11.352039375311511,
+        "mean_temp": 7.949999999999999
+    },
+    "Tbilisi": {
+        "total_temp": 306858.0999999999,
+        "count": 23730,
+        "max_temp": 62.0,
+        "min_temp": -29.3,
+        "average_temp": 12.931230509903072,
+        "mean_temp": 16.35
+    },
+    "Indianapolis": {
+        "total_temp": 286408.9000000001,
+        "count": 24311,
+        "max_temp": 51.1,
+        "min_temp": -27.7,
+        "average_temp": 11.781041503846,
+        "mean_temp": 11.700000000000001
+    },
+    "Melbourne": {
+        "total_temp": 369652.1000000001,
+        "count": 24395,
+        "max_temp": 57.4,
+        "min_temp": -24.3,
+        "average_temp": 15.152781307645013,
+        "mean_temp": 16.549999999999997
+    },
+    "Flores,  Pet\u00e9n": {
+        "total_temp": 633393.6999999998,
+        "count": 24063,
+        "max_temp": 64.3,
+        "min_temp": -10.5,
+        "average_temp": 26.322308107883465,
+        "mean_temp": 26.9
+    },
+    "Jacksonville": {
+        "total_temp": 488603.0000000001,
+        "count": 24131,
+        "max_temp": 56.9,
+        "min_temp": -19.6,
+        "average_temp": 20.24793833657951,
+        "mean_temp": 18.65
+    },
+    "Hong Kong": {
+        "total_temp": 564660.6000000001,
+        "count": 24180,
+        "max_temp": 65.7,
+        "min_temp": -16.8,
+        "average_temp": 23.35238213399504,
+        "mean_temp": 24.450000000000003
+    },
+    "Tucson": {
+        "total_temp": 506288.9000000001,
+        "count": 24224,
+        "max_temp": 64.4,
+        "min_temp": -19.6,
+        "average_temp": 20.900301354029065,
+        "mean_temp": 22.400000000000002
+    },
+    "Harare": {
+        "total_temp": 444558.4000000001,
+        "count": 24258,
+        "max_temp": 54.3,
+        "min_temp": -21.5,
+        "average_temp": 18.326259378349413,
+        "mean_temp": 16.4
+    },
+    "Seattle": {
+        "total_temp": 275019.1000000001,
+        "count": 24391,
+        "max_temp": 54.5,
+        "min_temp": -27.4,
+        "average_temp": 11.275433561559595,
+        "mean_temp": 13.55
+    },
+    "Ifrane": {
+        "total_temp": 276755.99999999994,
+        "count": 24111,
+        "max_temp": 49.8,
+        "min_temp": -29.9,
+        "average_temp": 11.47841234291402,
+        "mean_temp": 9.95
+    },
+    "Montreal": {
+        "total_temp": 163764.19999999995,
+        "count": 24051,
+        "max_temp": 44.9,
+        "min_temp": -35.4,
+        "average_temp": 6.809039125192298,
+        "mean_temp": 4.75
+    },
+    "Durban": {
+        "total_temp": 497099.60000000015,
+        "count": 24178,
+        "max_temp": 59.0,
+        "min_temp": -22.4,
+        "average_temp": 20.559996691206887,
+        "mean_temp": 18.3
+    },
+    "Cairns": {
+        "total_temp": 604273.7999999999,
+        "count": 24140,
+        "max_temp": 68.3,
+        "min_temp": -13.8,
+        "average_temp": 25.032054681027336,
+        "mean_temp": 27.25
+    },
+    "Ouarzazate": {
+        "total_temp": 456456.0999999998,
+        "count": 24199,
+        "max_temp": 55.8,
+        "min_temp": -24.5,
+        "average_temp": 18.862601760403315,
+        "mean_temp": 15.649999999999999
+    },
+    "Vancouver": {
+        "total_temp": 250740.9,
+        "count": 24089,
+        "max_temp": 50.3,
+        "min_temp": -29.3,
+        "average_temp": 10.408937689401801,
+        "mean_temp": 10.499999999999998
+    },
+    "Luxembourg City": {
+        "total_temp": 223251.40000000002,
+        "count": 24088,
+        "max_temp": 47.3,
+        "min_temp": -28.9,
+        "average_temp": 9.268158419129858,
+        "mean_temp": 9.2
+    },
+    "Malabo": {
+        "total_temp": 633392.4,
+        "count": 24113,
+        "max_temp": 64.8,
+        "min_temp": -9.3,
+        "average_temp": 26.26767303943931,
+        "mean_temp": 27.75
+    },
+    "Kankan": {
+        "total_temp": 645580.5999999997,
+        "count": 24358,
+        "max_temp": 65.2,
+        "min_temp": -19.6,
+        "average_temp": 26.50384268002298,
+        "mean_temp": 22.8
+    },
+    "Lagos": {
+        "total_temp": 648314.1,
+        "count": 24164,
+        "max_temp": 65.8,
+        "min_temp": -12.5,
+        "average_temp": 26.829750869061414,
+        "mean_temp": 26.65
+    },
+    "Nouakchott": {
+        "total_temp": 619636.8999999999,
+        "count": 24068,
+        "max_temp": 68.1,
+        "min_temp": -30.8,
+        "average_temp": 25.745259265414656,
+        "mean_temp": 18.65
+    },
+    "Birao": {
+        "total_temp": 638745.9,
+        "count": 24075,
+        "max_temp": 65.8,
+        "min_temp": -10.3,
+        "average_temp": 26.5315015576324,
+        "mean_temp": 27.75
+    },
+    "Jakarta": {
+        "total_temp": 640910.2000000001,
+        "count": 24032,
+        "max_temp": 66.9,
+        "min_temp": -18.7,
+        "average_temp": 26.66903295605859,
+        "mean_temp": 24.1
+    },
+    "Baguio": {
+        "total_temp": 468407.40000000014,
+        "count": 23985,
+        "max_temp": 65.7,
+        "min_temp": -24.7,
+        "average_temp": 19.52918073796123,
+        "mean_temp": 20.5
+    },
+    "Bergen": {
+        "total_temp": 183974.29999999993,
+        "count": 24125,
+        "max_temp": 48.7,
+        "min_temp": -33.3,
+        "average_temp": 7.625877720207251,
+        "mean_temp": 7.700000000000003
+    },
+    "Palermo": {
+        "total_temp": 448905.80000000005,
+        "count": 24263,
+        "max_temp": 61.6,
+        "min_temp": -19.3,
+        "average_temp": 18.50166096525574,
+        "mean_temp": 21.15
+    },
+    "Valletta": {
+        "total_temp": 458092.90000000014,
+        "count": 24258,
+        "max_temp": 58.7,
+        "min_temp": -25.5,
+        "average_temp": 18.884199027125078,
+        "mean_temp": 16.6
+    },
+    "Atlanta": {
+        "total_temp": 409084.80000000005,
+        "count": 24021,
+        "max_temp": 55.6,
+        "min_temp": -21.5,
+        "average_temp": 17.030298488822282,
+        "mean_temp": 17.05
+    },
+    "Petropavlovsk-Kamchatsky": {
+        "total_temp": 46984.39999999999,
+        "count": 24108,
+        "max_temp": 40.1,
+        "min_temp": -39.7,
+        "average_temp": 1.9489132238261153,
+        "mean_temp": 0.1999999999999993
+    },
+    "Ho Chi Minh City": {
+        "total_temp": 669110.2000000002,
+        "count": 24406,
+        "max_temp": 68.8,
+        "min_temp": -10.2,
+        "average_temp": 27.415807588297966,
+        "mean_temp": 29.299999999999997
+    },
+    "Kingston": {
+        "total_temp": 665860.3999999998,
+        "count": 24333,
+        "max_temp": 67.3,
+        "min_temp": -12.1,
+        "average_temp": 27.36450088357374,
+        "mean_temp": 27.599999999999998
+    },
+    "Valencia": {
+        "total_temp": 445095.5,
+        "count": 24443,
+        "max_temp": 62.0,
+        "min_temp": -20.5,
+        "average_temp": 18.209528290308064,
+        "mean_temp": 20.75
+    },
+    "Guatemala City": {
+        "total_temp": 494033.5000000001,
+        "count": 24223,
+        "max_temp": 62.1,
+        "min_temp": -18.0,
+        "average_temp": 20.395223547867733,
+        "mean_temp": 22.05
+    },
+    "Cabo San Lucas": {
+        "total_temp": 577103.8999999999,
+        "count": 24136,
+        "max_temp": 62.0,
+        "min_temp": -15.4,
+        "average_temp": 23.910502983095785,
+        "mean_temp": 23.3
+    },
+    "Ghanzi": {
+        "total_temp": 518408.2,
+        "count": 24153,
+        "max_temp": 58.3,
+        "min_temp": -25.3,
+        "average_temp": 21.463511779075063,
+        "mean_temp": 16.5
+    },
+    "\u00dcr\u00fcmqi": {
+        "total_temp": 181262.00000000006,
+        "count": 24454,
+        "max_temp": 47.5,
+        "min_temp": -38.1,
+        "average_temp": 7.412366075079744,
+        "mean_temp": 4.699999999999999
+    },
+    "Veracruz": {
+        "total_temp": 626342.1000000001,
+        "count": 24599,
+        "max_temp": 64.5,
+        "min_temp": -19.7,
+        "average_temp": 25.462096020163425,
+        "mean_temp": 22.4
+    },
+    "Bouak\u00e9": {
+        "total_temp": 632553.0999999997,
+        "count": 24397,
+        "max_temp": 66.2,
+        "min_temp": -15.1,
+        "average_temp": 25.92749518383407,
+        "mean_temp": 25.55
+    },
+    "Cracow": {
+        "total_temp": 228489.70000000004,
+        "count": 24372,
+        "max_temp": 48.8,
+        "min_temp": -28.2,
+        "average_temp": 9.375090267520108,
+        "mean_temp": 10.299999999999999
+    },
+    "Lviv": {
+        "total_temp": 187779.80000000002,
+        "count": 24170,
+        "max_temp": 45.7,
+        "min_temp": -34.3,
+        "average_temp": 7.7691270169631785,
+        "mean_temp": 5.700000000000003
+    },
+    "Zanzibar City": {
+        "total_temp": 625611.6000000002,
+        "count": 24086,
+        "max_temp": 65.1,
+        "min_temp": -13.0,
+        "average_temp": 25.974076226853782,
+        "mean_temp": 26.049999999999997
+    },
+    "Memphis": {
+        "total_temp": 413670.59999999986,
+        "count": 24056,
+        "max_temp": 58.9,
+        "min_temp": -24.9,
+        "average_temp": 17.196150648486856,
+        "mean_temp": 17.0
+    },
+    "Miami": {
+        "total_temp": 602249.4999999999,
+        "count": 24135,
+        "max_temp": 66.1,
+        "min_temp": -15.2,
+        "average_temp": 24.95336648021545,
+        "mean_temp": 25.449999999999996
+    },
+    "Ndola": {
+        "total_temp": 489419.09999999974,
+        "count": 23910,
+        "max_temp": 59.4,
+        "min_temp": -16.6,
+        "average_temp": 20.46922208281053,
+        "mean_temp": 21.4
+    },
+    "Toronto": {
+        "total_temp": 228344.00000000006,
+        "count": 24092,
+        "max_temp": 50.6,
+        "min_temp": -30.5,
+        "average_temp": 9.478000996181308,
+        "mean_temp": 10.05
+    },
+    "Palmerston North": {
+        "total_temp": 315755.4000000001,
+        "count": 23999,
+        "max_temp": 55.4,
+        "min_temp": -29.9,
+        "average_temp": 13.157023209300391,
+        "mean_temp": 12.75
+    },
+    "Arkhangelsk": {
+        "total_temp": 33074.6,
+        "count": 24163,
+        "max_temp": 45.3,
+        "min_temp": -39.0,
+        "average_temp": 1.368811819724372,
+        "mean_temp": 3.1499999999999986
+    },
+    "Baghdad": {
+        "total_temp": 550355.3000000002,
+        "count": 24248,
+        "max_temp": 63.6,
+        "min_temp": -22.0,
+        "average_temp": 22.696935829759163,
+        "mean_temp": 20.8
+    },
+    "Bissau": {
+        "total_temp": 655664.1000000001,
+        "count": 24332,
+        "max_temp": 64.9,
+        "min_temp": -15.7,
+        "average_temp": 26.946576524741086,
+        "mean_temp": 24.6
+    },
+    "Wau": {
+        "total_temp": 665928.9,
+        "count": 23976,
+        "max_temp": 67.8,
+        "min_temp": -12.3,
+        "average_temp": 27.774812312312314,
+        "mean_temp": 27.75
+    },
+    "Dampier": {
+        "total_temp": 645988.1,
+        "count": 24437,
+        "max_temp": 66.7,
+        "min_temp": -15.6,
+        "average_temp": 26.43483651839424,
+        "mean_temp": 25.55
+    },
+    "Port Moresby": {
+        "total_temp": 653007.8000000004,
+        "count": 24265,
+        "max_temp": 75.2,
+        "min_temp": -12.6,
+        "average_temp": 26.91151040593449,
+        "mean_temp": 31.3
+    },
+    "Johannesburg": {
+        "total_temp": 376193.5999999999,
+        "count": 24128,
+        "max_temp": 63.4,
+        "min_temp": -30.3,
+        "average_temp": 15.591578249336866,
+        "mean_temp": 16.549999999999997
+    },
+    "Athens": {
+        "total_temp": 461790.50000000006,
+        "count": 24032,
+        "max_temp": 62.3,
+        "min_temp": -28.3,
+        "average_temp": 19.215649966711055,
+        "mean_temp": 17.0
+    },
+    "Sofia": {
+        "total_temp": 257425.70000000013,
+        "count": 24261,
+        "max_temp": 50.6,
+        "min_temp": -28.3,
+        "average_temp": 10.61067969168625,
+        "mean_temp": 11.15
+    },
+    "Dunedin": {
+        "total_temp": 264070.89999999997,
+        "count": 23995,
+        "max_temp": 51.7,
+        "min_temp": -24.5,
+        "average_temp": 11.005246926443007,
+        "mean_temp": 13.600000000000001
+    },
+    "Conakry": {
+        "total_temp": 649449.8000000003,
+        "count": 24615,
+        "max_temp": 65.8,
+        "min_temp": -15.3,
+        "average_temp": 26.384310379849698,
+        "mean_temp": 25.25
+    },
+    "N'Djamena": {
+        "total_temp": 685183.8,
+        "count": 24244,
+        "max_temp": 70.8,
+        "min_temp": -23.5,
+        "average_temp": 28.26199472034318,
+        "mean_temp": 23.65
+    },
+    "Berlin": {
+        "total_temp": 254537.09999999998,
+        "count": 24511,
+        "max_temp": 50.8,
+        "min_temp": -35.1,
+        "average_temp": 10.384606911182733,
+        "mean_temp": 7.849999999999998
+    },
+    "Suva": {
+        "total_temp": 621369.6999999998,
+        "count": 24267,
+        "max_temp": 66.0,
+        "min_temp": -13.7,
+        "average_temp": 25.605542506284248,
+        "mean_temp": 26.15
+    },
+    "Hanoi": {
+        "total_temp": 575851.9000000003,
+        "count": 24372,
+        "max_temp": 67.0,
+        "min_temp": -22.0,
+        "average_temp": 23.627601345806674,
+        "mean_temp": 22.5
+    },
+    "Lom\u00e9": {
+        "total_temp": 655772.9000000003,
+        "count": 24385,
+        "max_temp": 63.0,
+        "min_temp": -11.1,
+        "average_temp": 26.892470781217973,
+        "mean_temp": 25.95
+    },
+    "Surabaya": {
+        "total_temp": 657231.7000000001,
+        "count": 24341,
+        "max_temp": 71.3,
+        "min_temp": -14.6,
+        "average_temp": 27.001014748777784,
+        "mean_temp": 28.349999999999998
+    },
+    "Bilbao": {
+        "total_temp": 357373.59999999986,
+        "count": 24216,
+        "max_temp": 54.6,
+        "min_temp": -25.2,
+        "average_temp": 14.757746944169138,
+        "mean_temp": 14.700000000000001
+    },
+    "Stockholm": {
+        "total_temp": 159555.50000000006,
+        "count": 24196,
+        "max_temp": 42.7,
+        "min_temp": -32.6,
+        "average_temp": 6.594292445032239,
+        "mean_temp": 5.050000000000001
+    },
+    "Minneapolis": {
+        "total_temp": 187063.90000000008,
+        "count": 24197,
+        "max_temp": 44.9,
+        "min_temp": -31.4,
+        "average_temp": 7.730871595652357,
+        "mean_temp": 6.75
+    },
+    "Nuuk": {
+        "total_temp": -34710.299999999996,
+        "count": 24330,
+        "max_temp": 41.7,
+        "min_temp": -39.0,
+        "average_temp": -1.4266461159062884,
+        "mean_temp": 1.3500000000000014
+    },
+    "Dublin": {
+        "total_temp": 233493.4000000001,
+        "count": 23940,
+        "max_temp": 47.0,
+        "min_temp": -35.7,
+        "average_temp": 9.753274853801175,
+        "mean_temp": 5.649999999999999
+    },
+    "Muscat": {
+        "total_temp": 684867.8,
+        "count": 24491,
+        "max_temp": 71.2,
+        "min_temp": -12.6,
+        "average_temp": 27.964060267036874,
+        "mean_temp": 29.3
+    },
+    "Kansas City": {
+        "total_temp": 301152.69999999995,
+        "count": 24198,
+        "max_temp": 52.5,
+        "min_temp": -25.7,
+        "average_temp": 12.445354988015536,
+        "mean_temp": 13.4
+    },
+    "San Jos\u00e9": {
+        "total_temp": 544451.7999999997,
+        "count": 24084,
+        "max_temp": 63.2,
+        "min_temp": -21.1,
+        "average_temp": 22.60636937385815,
+        "mean_temp": 21.05
+    },
+    "San Salvador": {
+        "total_temp": 555691.7000000001,
+        "count": 24047,
+        "max_temp": 65.8,
+        "min_temp": -22.9,
+        "average_temp": 23.1085665571589,
+        "mean_temp": 21.45
+    },
+    "St. John's": {
+        "total_temp": 120773.00000000001,
+        "count": 24093,
+        "max_temp": 44.2,
+        "min_temp": -36.0,
+        "average_temp": 5.012783796123356,
+        "mean_temp": 4.100000000000001
+    },
+    "Los Angeles": {
+        "total_temp": 450096.3,
+        "count": 24130,
+        "max_temp": 65.2,
+        "min_temp": -21.9,
+        "average_temp": 18.65297554910899,
+        "mean_temp": 21.650000000000002
+    },
+    "Abha": {
+        "total_temp": 437956.19999999995,
+        "count": 24285,
+        "max_temp": 56.8,
+        "min_temp": -21.7,
+        "average_temp": 18.034021000617663,
+        "mean_temp": 17.549999999999997
+    },
+    "Yangon": {
+        "total_temp": 662798.4000000001,
+        "count": 24076,
+        "max_temp": 69.8,
+        "min_temp": -16.4,
+        "average_temp": 27.52942349227447,
+        "mean_temp": 26.7
+    },
+    "Gab\u00e8s": {
+        "total_temp": 476503.40000000014,
+        "count": 24336,
+        "max_temp": 56.5,
+        "min_temp": -23.0,
+        "average_temp": 19.580185733070355,
+        "mean_temp": 16.75
+    },
+    "Tabriz": {
+        "total_temp": 304042.99999999994,
+        "count": 24293,
+        "max_temp": 50.7,
+        "min_temp": -27.8,
+        "average_temp": 12.515662948174368,
+        "mean_temp": 11.450000000000001
+    },
+    "Dikson": {
+        "total_temp": -271576.1,
+        "count": 24495,
+        "max_temp": 29.9,
+        "min_temp": -49.3,
+        "average_temp": -11.087001428863033,
+        "mean_temp": -9.7
+    },
+    "Tirana": {
+        "total_temp": 364460.1000000001,
+        "count": 24122,
+        "max_temp": 55.9,
+        "min_temp": -28.0,
+        "average_temp": 15.109033247657743,
+        "mean_temp": 13.95
+    },
+    "Algiers": {
+        "total_temp": 444524.3000000001,
+        "count": 24349,
+        "max_temp": 58.5,
+        "min_temp": -20.9,
+        "average_temp": 18.25636781798021,
+        "mean_temp": 18.8
+    },
+    "Abidjan": {
+        "total_temp": 628960.2,
+        "count": 24265,
+        "max_temp": 64.2,
+        "min_temp": -12.4,
+        "average_temp": 25.92046981248712,
+        "mean_temp": 25.900000000000002
+    },
+    "Kathmandu": {
+        "total_temp": 438712.49999999994,
+        "count": 24064,
+        "max_temp": 57.5,
+        "min_temp": -18.9,
+        "average_temp": 18.231071309840424,
+        "mean_temp": 19.3
+    },
+    "Burnie": {
+        "total_temp": 319999.30000000005,
+        "count": 24418,
+        "max_temp": 50.6,
+        "min_temp": -28.3,
+        "average_temp": 13.105057744287004,
+        "mean_temp": 11.15
+    },
+    "Tallinn": {
+        "total_temp": 158018.09999999995,
+        "count": 24303,
+        "max_temp": 43.1,
+        "min_temp": -31.2,
+        "average_temp": 6.501999753116897,
+        "mean_temp": 5.950000000000001
+    },
+    "Colombo": {
+        "total_temp": 657890.8999999999,
+        "count": 24022,
+        "max_temp": 67.9,
+        "min_temp": -6.8,
+        "average_temp": 27.387016068603774,
+        "mean_temp": 30.550000000000004
+    },
+    "San Juan": {
+        "total_temp": 660488.5999999997,
+        "count": 24247,
+        "max_temp": 69.7,
+        "min_temp": -15.5,
+        "average_temp": 27.240013197508958,
+        "mean_temp": 27.1
+    },
+    "Milan": {
+        "total_temp": 315989.3,
+        "count": 24274,
+        "max_temp": 53.4,
+        "min_temp": -30.6,
+        "average_temp": 13.01760319683612,
+        "mean_temp": 11.399999999999999
+    },
+    "Dallas": {
+        "total_temp": 460391.90000000014,
+        "count": 24145,
+        "max_temp": 60.5,
+        "min_temp": -17.2,
+        "average_temp": 19.06779457444606,
+        "mean_temp": 21.65
+    },
+    "Juba": {
+        "total_temp": 669367.8,
+        "count": 24074,
+        "max_temp": 66.7,
+        "min_temp": -17.7,
+        "average_temp": 27.804594167982057,
+        "mean_temp": 24.5
+    },
+    "Louisville": {
+        "total_temp": 342705.69999999984,
+        "count": 24527,
+        "max_temp": 54.7,
+        "min_temp": -23.1,
+        "average_temp": 13.97258939128307,
+        "mean_temp": 15.8
+    },
+    "Amsterdam": {
+        "total_temp": 245172.59999999992,
+        "count": 24371,
+        "max_temp": 48.9,
+        "min_temp": -30.1,
+        "average_temp": 10.060013951007342,
+        "mean_temp": 9.399999999999999
+    },
+    "Dushanbe": {
+        "total_temp": 354139.1000000001,
+        "count": 24063,
+        "max_temp": 49.6,
+        "min_temp": -26.2,
+        "average_temp": 14.717163279724062,
+        "mean_temp": 11.700000000000001
+    },
+    "Santo Domingo": {
+        "total_temp": 631755.6999999998,
+        "count": 24365,
+        "max_temp": 62.7,
+        "min_temp": -10.9,
+        "average_temp": 25.928820028729728,
+        "mean_temp": 25.900000000000002
+    },
+    "Podgorica": {
+        "total_temp": 373640.5,
+        "count": 24362,
+        "max_temp": 61.8,
+        "min_temp": -26.1,
+        "average_temp": 15.33702077005172,
+        "mean_temp": 17.849999999999998
+    },
+    "Anadyr": {
+        "total_temp": -166708.1,
+        "count": 24310,
+        "max_temp": 35.3,
+        "min_temp": -46.3,
+        "average_temp": -6.8575935828877,
+        "mean_temp": -5.5
+    },
+    "Banjul": {
+        "total_temp": 634746.9999999998,
+        "count": 24349,
+        "max_temp": 67.7,
+        "min_temp": -10.0,
+        "average_temp": 26.068709187235605,
+        "mean_temp": 28.85
+    },
+    "Tabora": {
+        "total_temp": 555998.1000000001,
+        "count": 24056,
+        "max_temp": 65.4,
+        "min_temp": -15.6,
+        "average_temp": 23.112657964748923,
+        "mean_temp": 24.900000000000002
+    },
+    "Chongqing": {
+        "total_temp": 450809.7,
+        "count": 24291,
+        "max_temp": 60.3,
+        "min_temp": -22.6,
+        "average_temp": 18.558713103618626,
+        "mean_temp": 18.849999999999998
+    },
+    "Kuopio": {
+        "total_temp": 84342.29999999999,
+        "count": 24156,
+        "max_temp": 43.0,
+        "min_temp": -38.5,
+        "average_temp": 3.4915673124689515,
+        "mean_temp": 2.25
+    },
+    "Da Lat": {
+        "total_temp": 437645.8,
+        "count": 24400,
+        "max_temp": 59.7,
+        "min_temp": -20.7,
+        "average_temp": 17.936303278688523,
+        "mean_temp": 19.5
+    },
+    "Ouagadougou": {
+        "total_temp": 686691.1000000002,
+        "count": 24324,
+        "max_temp": 68.8,
+        "min_temp": -11.0,
+        "average_temp": 28.231010524584782,
+        "mean_temp": 28.9
+    },
+    "Bosaso": {
+        "total_temp": 730747.2,
+        "count": 24366,
+        "max_temp": 68.0,
+        "min_temp": -13.0,
+        "average_temp": 29.990445703028808,
+        "mean_temp": 27.5
+    },
+    "Thessaloniki": {
+        "total_temp": 388958.40000000014,
+        "count": 24266,
+        "max_temp": 64.9,
+        "min_temp": -26.1,
+        "average_temp": 16.028945850160724,
+        "mean_temp": 19.400000000000002
+    },
+    "Sapporo": {
+        "total_temp": 213365.2,
+        "count": 24203,
+        "max_temp": 49.0,
+        "min_temp": -34.2,
+        "average_temp": 8.815650952361278,
+        "mean_temp": 7.399999999999999
+    },
+    "Nassau": {
+        "total_temp": 592623.2999999999,
+        "count": 24101,
+        "max_temp": 65.7,
+        "min_temp": -21.7,
+        "average_temp": 24.589158126218827,
+        "mean_temp": 22.0
+    },
+    "Toluca": {
+        "total_temp": 298274.4,
+        "count": 24099,
+        "max_temp": 53.8,
+        "min_temp": -30.3,
+        "average_temp": 12.377044690651065,
+        "mean_temp": 11.749999999999998
+    },
+    "Houston": {
+        "total_temp": 500568.30000000016,
+        "count": 24101,
+        "max_temp": 63.9,
+        "min_temp": -20.2,
+        "average_temp": 20.769607070246053,
+        "mean_temp": 21.85
+    },
+    "Thi\u00e8s": {
+        "total_temp": 580213.5000000001,
+        "count": 24142,
+        "max_temp": 65.2,
+        "min_temp": -14.5,
+        "average_temp": 24.033365089884853,
+        "mean_temp": 25.35
+    },
+    "Toamasina": {
+        "total_temp": 565065.2000000001,
+        "count": 24258,
+        "max_temp": 64.9,
+        "min_temp": -15.4,
+        "average_temp": 23.293973122268945,
+        "mean_temp": 24.750000000000004
+    },
+    "Mahajanga": {
+        "total_temp": 639085.8,
+        "count": 24214,
+        "max_temp": 64.9,
+        "min_temp": -12.1,
+        "average_temp": 26.393235318410838,
+        "mean_temp": 26.400000000000002
+    },
+    "Hamburg": {
+        "total_temp": 233986.29999999993,
+        "count": 24190,
+        "max_temp": 51.5,
+        "min_temp": -34.9,
+        "average_temp": 9.672852418354688,
+        "mean_temp": 8.3
+    },
+    "Yellowknife": {
+        "total_temp": -102795.29999999999,
+        "count": 24086,
+        "max_temp": 39.4,
+        "min_temp": -51.1,
+        "average_temp": -4.267844390932491,
+        "mean_temp": -5.850000000000001
+    },
+    "Oranjestad": {
+        "total_temp": 684599.9000000003,
+        "count": 24280,
+        "max_temp": 65.1,
+        "min_temp": -17.0,
+        "average_temp": 28.19604200988469,
+        "mean_temp": 24.049999999999997
+    },
+    "Mumbai": {
+        "total_temp": 665990.6,
+        "count": 24572,
+        "max_temp": 62.1,
+        "min_temp": -12.2,
+        "average_temp": 27.103638287481687,
+        "mean_temp": 24.950000000000003
+    },
+    "Novosibirsk": {
+        "total_temp": 38950.0,
+        "count": 24322,
+        "max_temp": 45.5,
+        "min_temp": -41.1,
+        "average_temp": 1.6014308033878792,
+        "mean_temp": 2.1999999999999993
+    },
+    "Irkutsk": {
+        "total_temp": 27452.80000000001,
+        "count": 24345,
+        "max_temp": 42.4,
+        "min_temp": -42.0,
+        "average_temp": 1.1276566029985629,
+        "mean_temp": 0.1999999999999993
+    },
+    "Mandalay": {
+        "total_temp": 669740.7,
+        "count": 23875,
+        "max_temp": 71.6,
+        "min_temp": -11.5,
+        "average_temp": 28.051966492146594,
+        "mean_temp": 30.049999999999997
+    },
+    "Milwaukee": {
+        "total_temp": 214101.40000000002,
+        "count": 24426,
+        "max_temp": 47.3,
+        "min_temp": -28.2,
+        "average_temp": 8.765307459264719,
+        "mean_temp": 9.549999999999999
+    },
+    "Busan": {
+        "total_temp": 363645.50000000006,
+        "count": 24345,
+        "max_temp": 55.1,
+        "min_temp": -20.9,
+        "average_temp": 14.93717395769152,
+        "mean_temp": 17.1
+    },
+    "Mal\u00e9": {
+        "total_temp": 679082.7999999998,
+        "count": 24286,
+        "max_temp": 70.9,
+        "min_temp": -12.6,
+        "average_temp": 27.961903977600254,
+        "mean_temp": 29.150000000000002
+    },
+    "Port Vila": {
+        "total_temp": 587497.1000000001,
+        "count": 24123,
+        "max_temp": 62.4,
+        "min_temp": -11.5,
+        "average_temp": 24.35423040252042,
+        "mean_temp": 25.45
+    },
+    "Nairobi": {
+        "total_temp": 428132.1999999999,
+        "count": 24060,
+        "max_temp": 56.7,
+        "min_temp": -21.0,
+        "average_temp": 17.794355777223604,
+        "mean_temp": 17.85
+    },
+    "Niamey": {
+        "total_temp": 715346.4,
+        "count": 24394,
+        "max_temp": 70.0,
+        "min_temp": -16.4,
+        "average_temp": 29.324686398294663,
+        "mean_temp": 26.8
+    },
+    "Lisbon": {
+        "total_temp": 421586.6999999999,
+        "count": 24203,
+        "max_temp": 56.2,
+        "min_temp": -20.2,
+        "average_temp": 17.418778663802005,
+        "mean_temp": 18.0
+    },
+    "Honolulu": {
+        "total_temp": 609818.3999999999,
+        "count": 23999,
+        "max_temp": 66.5,
+        "min_temp": -17.5,
+        "average_temp": 25.410158756614855,
+        "mean_temp": 24.5
+    },
+    "Nouadhibou": {
+        "total_temp": 513708.5000000001,
+        "count": 24079,
+        "max_temp": 66.6,
+        "min_temp": -20.1,
+        "average_temp": 21.33429544416297,
+        "mean_temp": 23.249999999999996
+    },
+    "Damascus": {
+        "total_temp": 414873.8000000002,
+        "count": 24395,
+        "max_temp": 60.0,
+        "min_temp": -23.1,
+        "average_temp": 17.006509530641534,
+        "mean_temp": 18.45
+    },
+    "Ottawa": {
+        "total_temp": 157799.30000000008,
+        "count": 24136,
+        "max_temp": 43.8,
+        "min_temp": -31.7,
+        "average_temp": 6.537922605236994,
+        "mean_temp": 6.049999999999999
+    },
+    "Mombasa": {
+        "total_temp": 639700.8999999999,
+        "count": 24345,
+        "max_temp": 67.7,
+        "min_temp": -11.5,
+        "average_temp": 26.276479769973296,
+        "mean_temp": 28.1
+    },
+    "Yakutsk": {
+        "total_temp": -218008.3999999999,
+        "count": 24530,
+        "max_temp": 32.9,
+        "min_temp": -48.0,
+        "average_temp": -8.88741948634325,
+        "mean_temp": -7.550000000000001
+    },
+    "Boston": {
+        "total_temp": 260476.3,
+        "count": 24049,
+        "max_temp": 53.3,
+        "min_temp": -28.1,
+        "average_temp": 10.831065740779241,
+        "mean_temp": 12.599999999999998
+    },
+    "Kuwait City": {
+        "total_temp": 616563.2000000002,
+        "count": 24025,
+        "max_temp": 69.1,
+        "min_temp": -11.3,
+        "average_temp": 25.663400624349645,
+        "mean_temp": 28.9
+    },
+    "Cape Town": {
+        "total_temp": 391465.6,
+        "count": 24158,
+        "max_temp": 57.4,
+        "min_temp": -25.5,
+        "average_temp": 16.2043877804454,
+        "mean_temp": 15.95
+    },
+    "Chi\u0219in\u0103u": {
+        "total_temp": 246558.3,
+        "count": 24137,
+        "max_temp": 53.2,
+        "min_temp": -34.5,
+        "average_temp": 10.214952148154286,
+        "mean_temp": 9.350000000000001
+    },
+    "La Paz": {
+        "total_temp": 576365.8000000002,
+        "count": 24335,
+        "max_temp": 65.3,
+        "min_temp": -19.4,
+        "average_temp": 23.684643517567295,
+        "mean_temp": 22.95
+    },
+    "Sokoto": {
+        "total_temp": 674273.2999999999,
+        "count": 24060,
+        "max_temp": 68.3,
+        "min_temp": -10.5,
+        "average_temp": 28.024659185369906,
+        "mean_temp": 28.9
+    },
+    "Assab": {
+        "total_temp": 734266.5000000001,
+        "count": 24062,
+        "max_temp": 66.4,
+        "min_temp": -9.9,
+        "average_temp": 30.515605519075727,
+        "mean_temp": 28.250000000000004
+    },
+    "Minsk": {
+        "total_temp": 163999.0,
+        "count": 24246,
+        "max_temp": 51.3,
+        "min_temp": -36.4,
+        "average_temp": 6.763961065742803,
+        "mean_temp": 7.449999999999999
+    },
+    "Gjoa Haven": {
+        "total_temp": -349312.9,
+        "count": 24137,
+        "max_temp": 30.5,
+        "min_temp": -56.0,
+        "average_temp": -14.47209263785889,
+        "mean_temp": -12.75
+    },
+    "Tokyo": {
+        "total_temp": 374711.4999999999,
+        "count": 24315,
+        "max_temp": 54.7,
+        "min_temp": -24.1,
+        "average_temp": 15.410713551305774,
+        "mean_temp": 15.3
+    },
+    "Lodwar": {
+        "total_temp": 705712.4999999999,
+        "count": 24192,
+        "max_temp": 69.6,
+        "min_temp": -9.1,
+        "average_temp": 29.171316964285708,
+        "mean_temp": 30.249999999999996
+    },
+    "Oklahoma City": {
+        "total_temp": 385551.3,
+        "count": 24221,
+        "max_temp": 53.4,
+        "min_temp": -21.8,
+        "average_temp": 15.918058709384418,
+        "mean_temp": 15.799999999999999
+    },
+    "Lubumbashi": {
+        "total_temp": 502443.60000000015,
+        "count": 24167,
+        "max_temp": 61.8,
+        "min_temp": -21.2,
+        "average_temp": 20.79048288989118,
+        "mean_temp": 20.299999999999997
+    },
+    "Anchorage": {
+        "total_temp": 68759.79999999999,
+        "count": 24276,
+        "max_temp": 48.9,
+        "min_temp": -39.7,
+        "average_temp": 2.832418849892898,
+        "mean_temp": 4.599999999999998
+    },
+    "Alexandra": {
+        "total_temp": 261437.0000000001,
+        "count": 24010,
+        "max_temp": 56.5,
+        "min_temp": -26.3,
+        "average_temp": 10.88867138692212,
+        "mean_temp": 15.1
+    },
+    "El Paso": {
+        "total_temp": 439159.2,
+        "count": 24363,
+        "max_temp": 57.1,
+        "min_temp": -24.9,
+        "average_temp": 18.025661864302425,
+        "mean_temp": 16.1
+    },
+    "Dolisie": {
+        "total_temp": 580176.8999999997,
+        "count": 24200,
+        "max_temp": 63.6,
+        "min_temp": -17.8,
+        "average_temp": 23.97425206611569,
+        "mean_temp": 22.9
+    },
+    "Sarajevo": {
+        "total_temp": 241242.20000000007,
+        "count": 23907,
+        "max_temp": 48.9,
+        "min_temp": -36.4,
+        "average_temp": 10.090860417450958,
+        "mean_temp": 6.25
+    },
+    "Yerevan": {
+        "total_temp": 295833.8,
+        "count": 23905,
+        "max_temp": 57.2,
+        "min_temp": -27.7,
+        "average_temp": 12.375394268981385,
+        "mean_temp": 14.750000000000002
+    },
+    "Bangkok": {
+        "total_temp": 690690.8000000002,
+        "count": 24139,
+        "max_temp": 75.7,
+        "min_temp": -8.5,
+        "average_temp": 28.613065992791753,
+        "mean_temp": 33.6
+    },
+    "Columbus": {
+        "total_temp": 283433.79999999993,
+        "count": 24325,
+        "max_temp": 48.0,
+        "min_temp": -33.8,
+        "average_temp": 11.651954779033913,
+        "mean_temp": 7.100000000000001
+    },
+    "Baku": {
+        "total_temp": 367963.40000000014,
+        "count": 24379,
+        "max_temp": 53.4,
+        "min_temp": -30.4,
+        "average_temp": 15.093457483900083,
+        "mean_temp": 11.5
+    },
+    "City of San Marino": {
+        "total_temp": 284299.4,
+        "count": 23994,
+        "max_temp": 51.5,
+        "min_temp": -29.5,
+        "average_temp": 11.848770525964825,
+        "mean_temp": 11.0
+    },
+    "Palm Springs": {
+        "total_temp": 593083.9000000001,
+        "count": 24232,
+        "max_temp": 64.4,
+        "min_temp": -13.4,
+        "average_temp": 24.475235226147248,
+        "mean_temp": 25.500000000000004
+    },
+    "Launceston": {
+        "total_temp": 314665.8,
+        "count": 24131,
+        "max_temp": 54.3,
+        "min_temp": -27.1,
+        "average_temp": 13.039898885251336,
+        "mean_temp": 13.599999999999998
+    },
+    "Ahvaz": {
+        "total_temp": 612732.4,
+        "count": 24132,
+        "max_temp": 66.0,
+        "min_temp": -13.8,
+        "average_temp": 25.390866898723687,
+        "mean_temp": 26.1
+    },
+    "Kolkata": {
+        "total_temp": 653378.5,
+        "count": 24473,
+        "max_temp": 63.6,
+        "min_temp": -16.0,
+        "average_temp": 26.69793241531484,
+        "mean_temp": 23.8
+    },
+    "Dakar": {
+        "total_temp": 580270.2999999999,
+        "count": 24245,
+        "max_temp": 64.3,
+        "min_temp": -21.5,
+        "average_temp": 23.933606929263764,
+        "mean_temp": 21.4
+    },
+    "Erbil": {
+        "total_temp": 471841.89999999985,
+        "count": 24194,
+        "max_temp": 58.1,
+        "min_temp": -20.6,
+        "average_temp": 19.502434487889552,
+        "mean_temp": 18.75
+    },
+    "Denpasar": {
+        "total_temp": 571557.6,
+        "count": 24227,
+        "max_temp": 67.5,
+        "min_temp": -17.3,
+        "average_temp": 23.591761258100465,
+        "mean_temp": 25.1
+    },
+    "Guadalajara": {
+        "total_temp": 507618.0,
+        "count": 24154,
+        "max_temp": 64.7,
+        "min_temp": -26.4,
+        "average_temp": 21.015897987910904,
+        "mean_temp": 19.150000000000002
+    },
+    "Bratislava": {
+        "total_temp": 254042.60000000003,
+        "count": 24105,
+        "max_temp": 50.0,
+        "min_temp": -28.8,
+        "average_temp": 10.539000207425847,
+        "mean_temp": 10.6
+    },
+    "Tunis": {
+        "total_temp": 441429.5,
+        "count": 24123,
+        "max_temp": 60.6,
+        "min_temp": -20.5,
+        "average_temp": 18.299112879824236,
+        "mean_temp": 20.05
+    },
+    "Batumi": {
+        "total_temp": 335580.30000000005,
+        "count": 24202,
+        "max_temp": 52.3,
+        "min_temp": -28.8,
+        "average_temp": 13.86580861085861,
+        "mean_temp": 11.749999999999998
+    },
+    "Calgary": {
+        "total_temp": 106074.29999999996,
+        "count": 24433,
+        "max_temp": 40.8,
+        "min_temp": -34.9,
+        "average_temp": 4.341435763107271,
+        "mean_temp": 2.9499999999999993
+    },
+    "Tashkent": {
+        "total_temp": 356397.3,
+        "count": 24047,
+        "max_temp": 57.5,
+        "min_temp": -24.1,
+        "average_temp": 14.820863309352518,
+        "mean_temp": 16.7
+    },
+    "Jayapura": {
+        "total_temp": 655282.1,
+        "count": 24215,
+        "max_temp": 70.5,
+        "min_temp": -11.0,
+        "average_temp": 27.060999380549244,
+        "mean_temp": 29.75
+    },
+    "Brussels": {
+        "total_temp": 256432.4,
+        "count": 24395,
+        "max_temp": 48.7,
+        "min_temp": -27.9,
+        "average_temp": 10.51167862266858,
+        "mean_temp": 10.400000000000002
+    },
+    "Ankara": {
+        "total_temp": 292174.20000000007,
+        "count": 24583,
+        "max_temp": 53.9,
+        "min_temp": -29.0,
+        "average_temp": 11.885213358825208,
+        "mean_temp": 12.45
+    },
+    "Wichita": {
+        "total_temp": 336063.4000000001,
+        "count": 24059,
+        "max_temp": 59.3,
+        "min_temp": -27.6,
+        "average_temp": 13.968302921983462,
+        "mean_temp": 15.849999999999998
+    },
+    "Mek'ele": {
+        "total_temp": 552156.2000000001,
+        "count": 24249,
+        "max_temp": 64.5,
+        "min_temp": -14.8,
+        "average_temp": 22.7702668151264,
+        "mean_temp": 24.85
+    },
+    "Djibouti": {
+        "total_temp": 729440.3,
+        "count": 24298,
+        "max_temp": 71.9,
+        "min_temp": -14.0,
+        "average_temp": 30.020590172030623,
+        "mean_temp": 28.950000000000003
+    },
+    "Frankfurt": {
+        "total_temp": 254753.90000000005,
+        "count": 24072,
+        "max_temp": 48.7,
+        "min_temp": -27.6,
+        "average_temp": 10.58299684280492,
+        "mean_temp": 10.55
+    },
+    "New York City": {
+        "total_temp": 313819.2,
+        "count": 24363,
+        "max_temp": 54.8,
+        "min_temp": -27.1,
+        "average_temp": 12.88097524935353,
+        "mean_temp": 13.849999999999998
+    },
+    "Maun": {
+        "total_temp": 541565.3,
+        "count": 24134,
+        "max_temp": 60.7,
+        "min_temp": -19.4,
+        "average_temp": 22.439931217369686,
+        "mean_temp": 20.650000000000002
+    },
+    "Moscow": {
+        "total_temp": 138336.30000000002,
+        "count": 24228,
+        "max_temp": 43.1,
+        "min_temp": -38.5,
+        "average_temp": 5.709769687964339,
+        "mean_temp": 2.3000000000000007
+    },
+    "Bata": {
+        "total_temp": 608987.7000000001,
+        "count": 24177,
+        "max_temp": 68.9,
+        "min_temp": -16.3,
+        "average_temp": 25.188720684948507,
+        "mean_temp": 26.300000000000004
+    },
+    "Bishkek": {
+        "total_temp": 275072.69999999995,
+        "count": 24254,
+        "max_temp": 49.3,
+        "min_temp": -27.0,
+        "average_temp": 11.341333388307081,
+        "mean_temp": 11.149999999999999
+    },
+    "Fresno": {
+        "total_temp": 434062.69999999995,
+        "count": 24208,
+        "max_temp": 56.7,
+        "min_temp": -19.6,
+        "average_temp": 17.930547752808987,
+        "mean_temp": 18.55
+    },
+    "Dili": {
+        "total_temp": 643023.8,
+        "count": 24201,
+        "max_temp": 75.1,
+        "min_temp": -18.5,
+        "average_temp": 26.570133465559277,
+        "mean_temp": 28.299999999999997
+    },
+    "Almaty": {
+        "total_temp": 242449.8,
+        "count": 24313,
+        "max_temp": 49.2,
+        "min_temp": -32.4,
+        "average_temp": 9.972023197466376,
+        "mean_temp": 8.400000000000002
+    },
+    "Split": {
+        "total_temp": 387482.8,
+        "count": 24171,
+        "max_temp": 64.0,
+        "min_temp": -19.7,
+        "average_temp": 16.030896528898268,
+        "mean_temp": 22.15
+    },
+    "Heraklion": {
+        "total_temp": 456920.69999999995,
+        "count": 24116,
+        "max_temp": 57.4,
+        "min_temp": -23.6,
+        "average_temp": 18.946786365898156,
+        "mean_temp": 16.9
+    },
+    "Karachi": {
+        "total_temp": 625493.1999999998,
+        "count": 24093,
+        "max_temp": 63.6,
+        "min_temp": -11.8,
+        "average_temp": 25.961615406964672,
+        "mean_temp": 25.9
+    },
+    "Yaound\u00e9": {
+        "total_temp": 579351.3,
+        "count": 24338,
+        "max_temp": 66.5,
+        "min_temp": -15.6,
+        "average_temp": 23.804392308324434,
+        "mean_temp": 25.45
+    },
+    "Albuquerque": {
+        "total_temp": 339105.10000000003,
+        "count": 24197,
+        "max_temp": 53.7,
+        "min_temp": -24.9,
+        "average_temp": 14.014344753481838,
+        "mean_temp": 14.400000000000002
+    },
+    "Honiara": {
+        "total_temp": 638216.1,
+        "count": 24056,
+        "max_temp": 63.0,
+        "min_temp": -11.9,
+        "average_temp": 26.530433155969405,
+        "mean_temp": 25.55
+    },
+    "New Orleans": {
+        "total_temp": 501326.1999999999,
+        "count": 24070,
+        "max_temp": 66.1,
+        "min_temp": -24.6,
+        "average_temp": 20.827843788948893,
+        "mean_temp": 20.749999999999996
+    },
+    "Mango": {
+        "total_temp": 678102.4999999999,
+        "count": 24082,
+        "max_temp": 66.3,
+        "min_temp": -7.8,
+        "average_temp": 28.15806411427622,
+        "mean_temp": 29.25
+    },
+    "Vientiane": {
+        "total_temp": 630172.7000000002,
+        "count": 24271,
+        "max_temp": 64.2,
+        "min_temp": -11.7,
+        "average_temp": 25.964018787853824,
+        "mean_temp": 26.25
+    },
+    "Tauranga": {
+        "total_temp": 362465.49999999994,
+        "count": 24440,
+        "max_temp": 55.4,
+        "min_temp": -24.4,
+        "average_temp": 14.830830605564646,
+        "mean_temp": 15.5
+    },
+    "Changsha": {
+        "total_temp": 426516.5999999999,
+        "count": 24411,
+        "max_temp": 55.8,
+        "min_temp": -20.5,
+        "average_temp": 17.472311662774974,
+        "mean_temp": 17.65
+    },
+    "Auckland": {
+        "total_temp": 371950.0999999999,
+        "count": 24509,
+        "max_temp": 52.5,
+        "min_temp": -28.2,
+        "average_temp": 15.176061854828834,
+        "mean_temp": 12.15
+    },
+    "Chiang Mai": {
+        "total_temp": 625690.6,
+        "count": 24201,
+        "max_temp": 64.9,
+        "min_temp": -13.5,
+        "average_temp": 25.85391512747407,
+        "mean_temp": 25.700000000000003
+    },
+    "Napoli": {
+        "total_temp": 382885.1,
+        "count": 24140,
+        "max_temp": 57.8,
+        "min_temp": -23.6,
+        "average_temp": 15.861023198011598,
+        "mean_temp": 17.099999999999998
+    },
+    "Suwa\u0142ki": {
+        "total_temp": 172418.7,
+        "count": 24047,
+        "max_temp": 47.4,
+        "min_temp": -33.9,
+        "average_temp": 7.170071110741465,
+        "mean_temp": 6.75
+    },
+    "Monterrey": {
+        "total_temp": 543511.7999999999,
+        "count": 24339,
+        "max_temp": 66.4,
+        "min_temp": -18.2,
+        "average_temp": 22.330901023049424,
+        "mean_temp": 24.1
+    },
+    "Z\u00fcrich": {
+        "total_temp": 224784.0,
+        "count": 24129,
+        "max_temp": 50.0,
+        "min_temp": -31.6,
+        "average_temp": 9.315926892950392,
+        "mean_temp": 9.2
+    },
+    "Kandi": {
+        "total_temp": 671471.7999999999,
+        "count": 24231,
+        "max_temp": 68.7,
+        "min_temp": -25.5,
+        "average_temp": 27.71127068631092,
+        "mean_temp": 21.6
+    },
+    "Kabul": {
+        "total_temp": 293122.3000000001,
+        "count": 24287,
+        "max_temp": 53.1,
+        "min_temp": -29.8,
+        "average_temp": 12.069102812204065,
+        "mean_temp": 11.65
+    },
+    "Las Palmas de Gran Canaria": {
+        "total_temp": 511867.5000000004,
+        "count": 24277,
+        "max_temp": 61.6,
+        "min_temp": -17.6,
+        "average_temp": 21.084462660131006,
+        "mean_temp": 22.0
+    },
+    "Bujumbura": {
+        "total_temp": 577619.0,
+        "count": 24391,
+        "max_temp": 64.5,
+        "min_temp": -17.5,
+        "average_temp": 23.681644869009062,
+        "mean_temp": 23.5
+    },
+    "George Town": {
+        "total_temp": 668341.3,
+        "count": 24032,
+        "max_temp": 67.0,
+        "min_temp": -14.4,
+        "average_temp": 27.810473535286288,
+        "mean_temp": 26.3
+    },
+    "Wroc\u0142aw": {
+        "total_temp": 232904.00000000006,
+        "count": 24218,
+        "max_temp": 52.5,
+        "min_temp": -28.3,
+        "average_temp": 9.616979106449751,
+        "mean_temp": 12.1
+    },
+    "Kyoto": {
+        "total_temp": 384540.30000000005,
+        "count": 24427,
+        "max_temp": 61.1,
+        "min_temp": -34.1,
+        "average_temp": 15.742428460310315,
+        "mean_temp": 13.5
+    },
+    "Erzurum": {
+        "total_temp": 125358.19999999995,
+        "count": 24375,
+        "max_temp": 45.8,
+        "min_temp": -38.4,
+        "average_temp": 5.1429005128205105,
+        "mean_temp": 3.6999999999999993
+    },
+    "Havana": {
+        "total_temp": 607499.2000000001,
+        "count": 24038,
+        "max_temp": 63.5,
+        "min_temp": -23.7,
+        "average_temp": 25.272451951077464,
+        "mean_temp": 19.9
+    },
+    "Villahermosa": {
+        "total_temp": 655013.9000000001,
+        "count": 24118,
+        "max_temp": 65.3,
+        "min_temp": -16.4,
+        "average_temp": 27.15871548221246,
+        "mean_temp": 24.45
+    },
+    "Odesa": {
+        "total_temp": 257719.3000000001,
+        "count": 24144,
+        "max_temp": 51.6,
+        "min_temp": -32.2,
+        "average_temp": 10.67425861497681,
+        "mean_temp": 9.7
+    },
+    "Fairbanks": {
+        "total_temp": -57652.49999999999,
+        "count": 24376,
+        "max_temp": 43.5,
+        "min_temp": -42.8,
+        "average_temp": -2.3651337381030517,
+        "mean_temp": 0.3500000000000014
+    },
+    "Copenhagen": {
+        "total_temp": 222496.6,
+        "count": 24230,
+        "max_temp": 49.6,
+        "min_temp": -31.2,
+        "average_temp": 9.182690879075526,
+        "mean_temp": 9.200000000000001
+    },
+    "Guangzhou": {
+        "total_temp": 548914.4000000003,
+        "count": 24342,
+        "max_temp": 60.8,
+        "min_temp": -18.6,
+        "average_temp": 22.550094486895087,
+        "mean_temp": 21.099999999999998
+    },
+    "Whitehorse": {
+        "total_temp": -43.20000000000067,
+        "count": 24173,
+        "max_temp": 40.2,
+        "min_temp": -39.4,
+        "average_temp": -0.0017871178587680748,
+        "mean_temp": 0.40000000000000213
+    },
+    "Oslo": {
+        "total_temp": 137599.19999999998,
+        "count": 24530,
+        "max_temp": 44.3,
+        "min_temp": -32.7,
+        "average_temp": 5.60942519364044,
+        "mean_temp": 5.799999999999997
+    },
+    "Sacramento": {
+        "total_temp": 390132.09999999986,
+        "count": 24107,
+        "max_temp": 57.7,
+        "min_temp": -24.2,
+        "average_temp": 16.183353382834856,
+        "mean_temp": 16.75
+    },
+    "Lyon": {
+        "total_temp": 302856.19999999995,
+        "count": 24223,
+        "max_temp": 60.2,
+        "min_temp": -27.7,
+        "average_temp": 12.502836147463153,
+        "mean_temp": 16.25
+    },
+    "Taipei": {
+        "total_temp": 556896.9000000001,
+        "count": 24106,
+        "max_temp": 66.2,
+        "min_temp": -25.0,
+        "average_temp": 23.102003650543438,
+        "mean_temp": 20.6
+    },
+    "Paris": {
+        "total_temp": 297991.30000000005,
+        "count": 24303,
+        "max_temp": 58.0,
+        "min_temp": -31.2,
+        "average_temp": 12.26150269514052,
+        "mean_temp": 13.4
+    },
+    "Karonga": {
+        "total_temp": 589530.8,
+        "count": 24191,
+        "max_temp": 63.7,
+        "min_temp": -15.2,
+        "average_temp": 24.369840023149106,
+        "mean_temp": 24.25
+    },
+    "Nashville": {
+        "total_temp": 373878.00000000006,
+        "count": 24226,
+        "max_temp": 54.1,
+        "min_temp": -27.7,
+        "average_temp": 15.432923305539505,
+        "mean_temp": 13.200000000000001
+    },
+    "Troms\u00f8": {
+        "total_temp": 71418.80000000003,
+        "count": 24121,
+        "max_temp": 46.5,
+        "min_temp": -39.8,
+        "average_temp": 2.960855685916837,
+        "mean_temp": 3.3500000000000014
+    },
+    "Hobart": {
+        "total_temp": 305770.6,
+        "count": 24097,
+        "max_temp": 50.9,
+        "min_temp": -27.0,
+        "average_temp": 12.689156326513674,
+        "mean_temp": 11.95
+    },
+    "Gaborone": {
+        "total_temp": 509791.3,
+        "count": 24171,
+        "max_temp": 66.2,
+        "min_temp": -16.9,
+        "average_temp": 21.091030573828142,
+        "mean_temp": 24.650000000000002
+    },
+    "Istanbul": {
+        "total_temp": 334941.80000000005,
+        "count": 24226,
+        "max_temp": 58.1,
+        "min_temp": -28.3,
+        "average_temp": 13.825716172707011,
+        "mean_temp": 14.9
+    },
+    "Libreville": {
+        "total_temp": 629222.7999999999,
+        "count": 24229,
+        "max_temp": 64.6,
+        "min_temp": -14.3,
+        "average_temp": 25.969821288538526,
+        "mean_temp": 25.15
+    },
+    "Bucharest": {
+        "total_temp": 264619.10000000003,
+        "count": 24284,
+        "max_temp": 54.9,
+        "min_temp": -27.7,
+        "average_temp": 10.896849777631363,
+        "mean_temp": 13.6
+    },
+    "Garissa": {
+        "total_temp": 711621.1000000001,
+        "count": 24328,
+        "max_temp": 68.0,
+        "min_temp": -12.1,
+        "average_temp": 29.251113942781984,
+        "mean_temp": 27.95
+    },
+    "Parakou": {
+        "total_temp": 649383.5,
+        "count": 24371,
+        "max_temp": 73.9,
+        "min_temp": -13.3,
+        "average_temp": 26.645746994378566,
+        "mean_temp": 30.300000000000004
+    },
+    "Washington, D.C.": {
+        "total_temp": 353423.99999999994,
+        "count": 24308,
+        "max_temp": 57.1,
+        "min_temp": -23.4,
+        "average_temp": 14.53941089353299,
+        "mean_temp": 16.85
+    },
+    "Riyadh": {
+        "total_temp": 634087.3999999999,
+        "count": 24335,
+        "max_temp": 70.3,
+        "min_temp": -15.7,
+        "average_temp": 26.056601602629954,
+        "mean_temp": 27.299999999999997
+    },
+    "Skopje": {
+        "total_temp": 301017.70000000007,
+        "count": 24225,
+        "max_temp": 55.3,
+        "min_temp": -27.9,
+        "average_temp": 12.425911248710014,
+        "mean_temp": 13.7
+    },
+    "Luanda": {
+        "total_temp": 630910.1,
+        "count": 24505,
+        "max_temp": 68.8,
+        "min_temp": -13.4,
+        "average_temp": 25.746178330952866,
+        "mean_temp": 27.7
+    },
+    "Budapest": {
+        "total_temp": 270949.19999999995,
+        "count": 24120,
+        "max_temp": 52.1,
+        "min_temp": -28.7,
+        "average_temp": 11.233383084577113,
+        "mean_temp": 11.700000000000001
+    },
+    "Saint Petersburg": {
+        "total_temp": 143629.90000000005,
+        "count": 24465,
+        "max_temp": 53.9,
+        "min_temp": -31.4,
+        "average_temp": 5.8708318005313735,
+        "mean_temp": 11.25
+    },
+    "Seoul": {
+        "total_temp": 299984.0000000001,
+        "count": 23965,
+        "max_temp": 49.0,
+        "min_temp": -26.1,
+        "average_temp": 12.517588149384524,
+        "mean_temp": 11.45
+    },
+    "Manama": {
+        "total_temp": 639630.7999999998,
+        "count": 24068,
+        "max_temp": 63.8,
+        "min_temp": -20.6,
+        "average_temp": 26.575984709988358,
+        "mean_temp": 21.599999999999998
+    },
+    "Ouahigouya": {
+        "total_temp": 689469.2000000001,
+        "count": 24036,
+        "max_temp": 70.7,
+        "min_temp": -9.6,
+        "average_temp": 28.684856049259448,
+        "mean_temp": 30.55
+    },
+    "Port Sudan": {
+        "total_temp": 685722.8,
+        "count": 24118,
+        "max_temp": 77.1,
+        "min_temp": -8.4,
+        "average_temp": 28.43199270254582,
+        "mean_temp": 34.349999999999994
+    },
+    "San Jose": {
+        "total_temp": 390497.4,
+        "count": 23829,
+        "max_temp": 55.9,
+        "min_temp": -27.8,
+        "average_temp": 16.387485836585675,
+        "mean_temp": 14.049999999999999
+    },
+    "New Delhi": {
+        "total_temp": 601804.2000000002,
+        "count": 24122,
+        "max_temp": 69.6,
+        "min_temp": -18.4,
+        "average_temp": 24.948354199485955,
+        "mean_temp": 25.599999999999998
+    },
+    "Mogadishu": {
+        "total_temp": 659092.6999999997,
+        "count": 24291,
+        "max_temp": 73.2,
+        "min_temp": -12.0,
+        "average_temp": 27.133205714050458,
+        "mean_temp": 30.6
+    },
+    "Dodoma": {
+        "total_temp": 551830.9,
+        "count": 24224,
+        "max_temp": 66.3,
+        "min_temp": -12.8,
+        "average_temp": 22.780337681638045,
+        "mean_temp": 26.75
+    },
+    "Bloemfontein": {
+        "total_temp": 379713.6000000002,
+        "count": 24276,
+        "max_temp": 56.0,
+        "min_temp": -24.5,
+        "average_temp": 15.64152249134949,
+        "mean_temp": 15.75
+    },
+    "Phnom Penh": {
+        "total_temp": 679087.0,
+        "count": 23955,
+        "max_temp": 68.1,
+        "min_temp": -12.4,
+        "average_temp": 28.348445001043622,
+        "mean_temp": 27.849999999999998
+    },
+    "Bordeaux": {
+        "total_temp": 341341.69999999995,
+        "count": 24127,
+        "max_temp": 64.8,
+        "min_temp": -23.8,
+        "average_temp": 14.147705889667176,
+        "mean_temp": 20.5
+    },
+    "Barcelona": {
+        "total_temp": 440294.2999999999,
+        "count": 24122,
+        "max_temp": 61.8,
+        "min_temp": -21.4,
+        "average_temp": 18.252810712212913,
+        "mean_temp": 20.2
+    },
+    "Yinchuan": {
+        "total_temp": 215774.29999999993,
+        "count": 24000,
+        "max_temp": 55.1,
+        "min_temp": -26.1,
+        "average_temp": 8.99059583333333,
+        "mean_temp": 14.5
+    },
+    "Porto": {
+        "total_temp": 381236.79999999993,
+        "count": 24265,
+        "max_temp": 54.2,
+        "min_temp": -24.2,
+        "average_temp": 15.711386771069439,
+        "mean_temp": 15.000000000000002
+    },
+    "Fianarantsoa": {
+        "total_temp": 430780.1,
+        "count": 24078,
+        "max_temp": 56.9,
+        "min_temp": -22.0,
+        "average_temp": 17.891025002076585,
+        "mean_temp": 17.45
+    },
+    "Reykjav\u00edk": {
+        "total_temp": 102534.5,
+        "count": 24140,
+        "max_temp": 43.8,
+        "min_temp": -40.0,
+        "average_temp": 4.247493786246893,
+        "mean_temp": 1.8999999999999986
+    },
+    "Tel Aviv": {
+        "total_temp": 473692.8,
+        "count": 23858,
+        "max_temp": 56.5,
+        "min_temp": -16.6,
+        "average_temp": 19.85467348478498,
+        "mean_temp": 19.95
+    },
+    "Makassar": {
+        "total_temp": 647477.3999999998,
+        "count": 24299,
+        "max_temp": 66.6,
+        "min_temp": -13.4,
+        "average_temp": 26.64625704761512,
+        "mean_temp": 26.599999999999998
+    },
+    "Canberra": {
+        "total_temp": 315000.89999999997,
+        "count": 24229,
+        "max_temp": 54.1,
+        "min_temp": -27.4,
+        "average_temp": 13.000986421230754,
+        "mean_temp": 13.350000000000001
+    },
+    "Roseau": {
+        "total_temp": 632479.3999999998,
+        "count": 24106,
+        "max_temp": 63.0,
+        "min_temp": -14.0,
+        "average_temp": 26.237426366879607,
+        "mean_temp": 24.5
+    },
+    "Christchurch": {
+        "total_temp": 294461.19999999995,
+        "count": 24188,
+        "max_temp": 50.9,
+        "min_temp": -34.9,
+        "average_temp": 12.173854804035058,
+        "mean_temp": 8.0
+    },
+    "Mexico City": {
+        "total_temp": 428862.1000000001,
+        "count": 24449,
+        "max_temp": 56.3,
+        "min_temp": -21.1,
+        "average_temp": 17.541089615117187,
+        "mean_temp": 17.599999999999998
+    },
+    "Tamale": {
+        "total_temp": 682863.3,
+        "count": 24356,
+        "max_temp": 66.0,
+        "min_temp": -12.4,
+        "average_temp": 28.036758909508954,
+        "mean_temp": 26.8
+    },
+    "Ab\u00e9ch\u00e9": {
+        "total_temp": 703135.7,
+        "count": 23886,
+        "max_temp": 72.1,
+        "min_temp": -9.1,
+        "average_temp": 29.437147282927235,
+        "mean_temp": 31.499999999999996
+    },
+    "Panama City": {
+        "total_temp": 680471.2999999999,
+        "count": 24393,
+        "max_temp": 68.7,
+        "min_temp": -11.0,
+        "average_temp": 27.896171032673305,
+        "mean_temp": 28.85
+    },
+    "Iqaluit": {
+        "total_temp": -223043.90000000005,
+        "count": 24126,
+        "max_temp": 31.4,
+        "min_temp": -48.3,
+        "average_temp": -9.244959794412669,
+        "mean_temp": -8.45
+    },
+    "Pointe-Noire": {
+        "total_temp": 632319.9999999999,
+        "count": 24253,
+        "max_temp": 65.5,
+        "min_temp": -13.4,
+        "average_temp": 26.071826165835148,
+        "mean_temp": 26.05
+    },
+    "Lhasa": {
+        "total_temp": 187772.7000000001,
+        "count": 24284,
+        "max_temp": 47.2,
+        "min_temp": -36.9,
+        "average_temp": 7.732362872673369,
+        "mean_temp": 5.150000000000002
+    },
+    "Alexandria": {
+        "total_temp": 487188.0999999999,
+        "count": 24428,
+        "max_temp": 60.1,
+        "min_temp": -22.8,
+        "average_temp": 19.943839037170456,
+        "mean_temp": 18.65
+    },
+    "Hat Yai": {
+        "total_temp": 659709.5000000002,
+        "count": 24505,
+        "max_temp": 64.6,
+        "min_temp": -14.9,
+        "average_temp": 26.92142419914304,
+        "mean_temp": 24.849999999999998
+    },
+    "Kunming": {
+        "total_temp": 371483.3,
+        "count": 23786,
+        "max_temp": 66.4,
+        "min_temp": -26.4,
+        "average_temp": 15.617728916169174,
+        "mean_temp": 20.000000000000004
+    },
+    "Zagreb": {
+        "total_temp": 263095.39999999997,
+        "count": 24524,
+        "max_temp": 52.0,
+        "min_temp": -29.9,
+        "average_temp": 10.72807861686511,
+        "mean_temp": 11.05
+    },
+    "Willemstad": {
+        "total_temp": 688387.4000000001,
+        "count": 24592,
+        "max_temp": 66.2,
+        "min_temp": -12.6,
+        "average_temp": 27.99233083929734,
+        "mean_temp": 26.8
+    },
+    "Lake Tekapo": {
+        "total_temp": 211564.39999999988,
+        "count": 24379,
+        "max_temp": 48.3,
+        "min_temp": -32.9,
+        "average_temp": 8.678141023011603,
+        "mean_temp": 7.699999999999999
+    },
+    "Tampa": {
+        "total_temp": 554955.1,
+        "count": 24213,
+        "max_temp": 68.5,
+        "min_temp": -17.2,
+        "average_temp": 22.91971668112171,
+        "mean_temp": 25.65
+    },
+    "Garoua": {
+        "total_temp": 679388.5,
+        "count": 24030,
+        "max_temp": 63.9,
+        "min_temp": -10.3,
+        "average_temp": 28.272513524760715,
+        "mean_temp": 26.799999999999997
+    },
+    "Praia": {
+        "total_temp": 590074.3,
+        "count": 24216,
+        "max_temp": 63.9,
+        "min_temp": -12.2,
+        "average_temp": 24.367125041295015,
+        "mean_temp": 25.85
+    },
+    "Vienna": {
+        "total_temp": 252438.60000000003,
+        "count": 24308,
+        "max_temp": 49.9,
+        "min_temp": -31.1,
+        "average_temp": 10.385000822774396,
+        "mean_temp": 9.399999999999999
+    },
+    "Rabat": {
+        "total_temp": 417770.7999999999,
+        "count": 24158,
+        "max_temp": 60.5,
+        "min_temp": -22.8,
+        "average_temp": 17.29326931037337,
+        "mean_temp": 18.85
+    },
+    "Gangtok": {
+        "total_temp": 366745.7,
+        "count": 24210,
+        "max_temp": 57.4,
+        "min_temp": -25.6,
+        "average_temp": 15.14852127220157,
+        "mean_temp": 15.899999999999999
+    },
+    "Singapore": {
+        "total_temp": 653825.9,
+        "count": 24160,
+        "max_temp": 68.4,
+        "min_temp": -14.5,
+        "average_temp": 27.062330298013247,
+        "mean_temp": 26.950000000000003
+    },
+    "Tamanrasset": {
+        "total_temp": 525322.6,
+        "count": 24251,
+        "max_temp": 59.2,
+        "min_temp": -16.4,
+        "average_temp": 21.66189435487196,
+        "mean_temp": 21.400000000000002
+    },
+    "Edmonton": {
+        "total_temp": 102698.30000000002,
+        "count": 24285,
+        "max_temp": 53.9,
+        "min_temp": -36.8,
+        "average_temp": 4.228877908173771,
+        "mean_temp": 8.55
+    }
+}
