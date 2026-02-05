@@ -1,30 +1,35 @@
 """Ratings model definition."""
 
-from sqlalchemy import Column, ForeignKey, Numeric, UUID, String, func
+from sqlalchemy import ForeignKey, Numeric, UUID, String, func
 from app.core.database import Base
+from sqlalchemy.orm import mapped_column, relationship, Mapped
 
 
 class Ratings(Base):
     __tablename__: str = "ratings"
 
-    rating_id: Column[UUID] = Column(UUID, primary_key=True, index=True)
-    product_id: Column[UUID] = Column(
+    rating_id: Mapped[UUID] = mapped_column(UUID, primary_key=True, index=True)
+    product_id: Mapped[UUID] = mapped_column(
         UUID, ForeignKey("products.product_id", ondelete="CASCADE"), nullable=False
     )
-    rating_value: Column[Numeric] = Column(Numeric(2, 1), nullable=True)
+    rating_value: Mapped[Numeric] = mapped_column(Numeric(2, 1), nullable=True)
 
     # Timestamps for soft deletion and record management
-    created_at: Column[str] = Column(
+    created_at: Mapped[str] = mapped_column(
         String, server_default=func.current_timestamp(), nullable=True
     )
-    updated_at: Column[str] = Column(
+    updated_at: Mapped[str] = mapped_column(
         String,
         server_default=func.current_timestamp(),
         onupdate=func.current_timestamp(),
         nullable=True,
     )
-    deleted_at: Column[str] = Column(String, nullable=True)
+    deleted_at: Mapped[str] = mapped_column(String, nullable=True)
 
+    # relationships
+    product = relationship("Products", back_populates="ratings")
+
+    # Soft delete method
     def soft_delete(self) -> None:
         """Soft delete the category by setting the deleted_at timestamp."""
         from datetime import datetime

@@ -2,28 +2,33 @@
 Category model definition.
 """
 
-from sqlalchemy import UUID, Column, String, func
+from sqlalchemy import UUID, String, func
+from sqlalchemy.orm import relationship, mapped_column, Mapped
 from app.core.database import Base
 
 
 class Category(Base):
     __tablename__: str = "categories"
 
-    category_id: Column[UUID] = Column(UUID, primary_key=True, index=True)
-    category_name: Column[str] = Column(String, unique=True, nullable=False)
+    category_id: Mapped[UUID] = mapped_column(UUID, primary_key=True, index=True)
+    category_name: Mapped[str] = mapped_column(String, unique=True, nullable=False)
 
     # Timestamps for soft deletion and record management
-    created_at: Column[str] = Column(
+    created_at: Mapped[str] = mapped_column(
         String, server_default=func.current_timestamp(), nullable=True
     )
-    updated_at: Column[str] = Column(
+    updated_at: Mapped[str] = mapped_column(
         String,
         server_default=func.current_timestamp(),
         onupdate=func.current_timestamp(),
         nullable=True,
     )
-    deleted_at: Column[str] = Column(String, nullable=True)
+    deleted_at: Mapped[str] = mapped_column(String, nullable=True)
 
+    # relationships
+    products = relationship("Product", back_populates="category")
+
+    # Soft delete method
     def soft_delete(self) -> None:
         """Soft delete the category by setting the deleted_at timestamp."""
         from datetime import datetime
