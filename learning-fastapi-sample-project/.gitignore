@@ -6,3 +6,9 @@ venv/
 secrets/
 *.log
 .pytest_cache/
+
+# Ignore database files
+*.db
+*.sqlite
+*.sqlite3
+*.sql
