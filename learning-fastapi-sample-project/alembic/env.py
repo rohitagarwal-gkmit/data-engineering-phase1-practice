@@ -3,6 +3,8 @@ from logging.config import fileConfig
 
 from sqlalchemy.ext.asyncio import create_async_engine
 from app.core.config_dev import DATABASE_URL
+from app.core.database import Base
+import app.models  # noqa: F401
 from sqlalchemy import pool
 
 from alembic import context
@@ -21,7 +23,7 @@ if config.config_file_name is not None:
 # for 'autogenerate' support
 # from myapp import mymodel
 # target_metadata = mymodel.Base.metadata
-target_metadata = None
+target_metadata = Base.metadata
 
 # other values from the config, defined by the needs of env.py,
 # can be acquired:
@@ -64,10 +66,10 @@ async def run_migrations_online() -> None:
         await connection.run_sync(do_run_migrations)
 
 
-async def do_run_migrations(connection) -> None:
+def do_run_migrations(connection) -> None:
     context.configure(connection=connection, target_metadata=target_metadata)
-    async with context.begin_transaction():
-        await context.run_migrations()
+    with context.begin_transaction():
+        context.run_migrations()
 
 
 if context.is_offline_mode():
